@@ -1,0 +1,68 @@
+https://github.com/wrrwhn/free-programming-books-zh_CN
+
+
+语言
+	Java
+		基础再次学习
+			Effective Java
+			Thinking in Java
+		分布编程
+		JVM
+	Go
+	Phython
+		利用Python进行数据分析
+		简明版：http://woodpecker.org.cn/abyteofpython_cn/chinese/
+		深入版：http://old.sebug.net/paper/books/dive-into-python3/
+	javascript
+		amd/require.js/node.js/AngularJS
+	Android
+		学习之路：http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/
+		design：http://www.apkbus.com/design/index.html
+
+数据库
+	mysql
+	nosql
+		redis
+			设计实现
+			命令参考
+
+框架
+	ssh
+	netty
+	bootstrap
+	fis
+
+架构
+	架构之美
+	实用负载均衡技术:网站性能优化攻略
+	网站性能监测与优化
+
+技巧
+	重构与模式
+	代码整洁
+	UML、鱼骨图、时序图
+	HTTP 接口设计指北：https://github.com/bolasblack/http-api-guide
+	正则表达式：http://deerchao.net/tutorials/regex/regex.htm
+
+持续交付
+	敏捷开发
+
+操作系统
+	Linux
+		鸟哥的Linux私房菜
+		深入分析Linux内核源码：http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html
+
+工具
+	服务类
+		Nginx
+		Tomcat
+		Docker
+			Docker中文指南：chinese_docker
+			Docker —— 从入门到实践：https://github.com/yeasy/docker_practice
+	开发类
+		IDEA
+	版本控制
+		Git：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+待分类学习
+	将为知上的知识也一并汇总过来
