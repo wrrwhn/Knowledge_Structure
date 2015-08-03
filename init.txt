@@ -43,6 +43,13 @@ https://github.com/wrrwhn/free-programming-books-zh_CN
 	UML、鱼骨图、时序图
 	HTTP 接口设计指北：https://github.com/bolasblack/http-api-guide
 	正则表达式：http://deerchao.net/tutorials/regex/regex.htm
+	绘画
+	字帖
+	健身
+
+算法
+	算法导论
+	数据结构
 
 持续交付
 	敏捷开发
