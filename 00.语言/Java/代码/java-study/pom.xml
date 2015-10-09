@@ -195,6 +195,15 @@
             <artifactId>netty</artifactId>
             <version>3.10.0.Final</version>
         </dependency>
+
+        <!--引入 Storm-->
+
+        <!-- Storm Dependency -->
+        <dependency>
+            <groupId>storm</groupId>
+            <artifactId>storm</artifactId>
+            <version>0.7.1</version>
+        </dependency>
     </dependencies>
 
 </project>
