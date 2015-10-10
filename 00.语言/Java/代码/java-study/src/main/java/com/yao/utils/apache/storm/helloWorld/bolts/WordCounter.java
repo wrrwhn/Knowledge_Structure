@@ -47,10 +47,6 @@ public class WordCounter extends BaseBasicBolt {
 	@Override
 	public void execute(Tuple input, BasicOutputCollector collector) {
 		String str = input.getString(0);
-		/**
-		 * If the word dosn't exist in the map we will create
-		 * this, if not We will add 1 
-		 */
 		if(!counters.containsKey(str)){
 			counters.put(str, 1);
 		}else{

@@ -48,7 +48,7 @@ public class DRPCTopologyMain {
 				System.err.print("Invalid result ["+result+"]");
 			}
 		}else{
-			System.err.println("There was an error running the drpc call");
+			System.err.println(result);
 		}
 		return false;
 	}
