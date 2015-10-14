@@ -20,7 +20,6 @@ public class TwitterSumarizeHashtags extends BaseBasicBolt{
 
 	@Override
 	public void cleanup() {
-		
 	}
  
 	@Override
