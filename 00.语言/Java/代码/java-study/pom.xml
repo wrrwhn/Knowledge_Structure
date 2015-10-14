@@ -180,16 +180,6 @@
             <artifactId>netty-all</artifactId>
             <version>5.0.0.Alpha1</version>
         </dependency>
-        <!--<dependency>-->
-            <!--<groupId>io.netty</groupId>-->
-            <!--<artifactId>netty</artifactId>-->
-            <!--<version>3.9.4.Final</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>io.netty</groupId>-->
-            <!--<artifactId>netty-all</artifactId>-->
-            <!--<version>4.0.24.Final</version>-->
-        <!--</dependency>-->
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty</artifactId>
@@ -197,8 +187,6 @@
         </dependency>
 
         <!--引入 Storm-->
-
-        <!-- Storm Dependency -->
         <dependency>
             <groupId>storm</groupId>
             <artifactId>storm</artifactId>
