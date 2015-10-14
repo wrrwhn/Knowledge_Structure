@@ -14,7 +14,7 @@ import java.util.concurrent.Future;
  *      注：
  *          参数 Callable<Type> 与返回值 Future<Type> 的 Type 类型需要一致
  *          返回的 Future 均为执行完成状态·
- *
+gi j  *
  */
 public class InvokeAllMain {
 

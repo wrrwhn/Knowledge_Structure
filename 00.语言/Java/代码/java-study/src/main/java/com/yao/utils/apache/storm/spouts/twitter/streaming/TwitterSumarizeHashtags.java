@@ -1,26 +1,25 @@
 package com.yao.utils.apache.storm.spouts.twitter.streaming;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Timer;
-import java.util.TimerTask;
-
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-
 import backtype.storm.task.TopologyContext;
 import backtype.storm.topology.BasicOutputCollector;
 import backtype.storm.topology.OutputFieldsDeclarer;
 import backtype.storm.topology.base.BaseBasicBolt;
 import backtype.storm.tuple.Tuple;
 
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Timer;
+import java.util.TimerTask;
+
 public class TwitterSumarizeHashtags extends BaseBasicBolt{
 
 	Map<String, Integer> hashtags = new HashMap<String, Integer>();
-	
+
 	@Override
 	public void cleanup() {
-		
 	}
  
 	@Override
