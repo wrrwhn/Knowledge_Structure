@@ -3,7 +3,11 @@ package com.yao.study.thread.executor.completion;
 import java.util.concurrent.*;
 
 /**
- * Created by Yao on 2015/10/9.
+ *  CompletionService
+ *      作用：完成任务后自动存储 Future 对象于队列中，供获取处理
+ *      方法：
+ *          poll()：检查完成队列，有的话返回第一个元素，否则返回 null
+ *          take()：类似 poll() 但若队列中无结果则将一直阻塞
  */
 public class ReportMain {
 
@@ -34,6 +38,7 @@ public class ReportMain {
             e.printStackTrace();
         }
 
+        reportProcessor.setEnd(true);
         executor.shutdown();
         try {
             executor.awaitTermination(1, TimeUnit.DAYS);
