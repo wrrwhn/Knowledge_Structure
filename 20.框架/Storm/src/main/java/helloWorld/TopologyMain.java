@@ -22,7 +22,7 @@ public class TopologyMain {
 		
         // 启动配置 - 定义配置文件地址& 非调试模式& 最大输入流为 1
 		Config conf = new Config();
-		conf.put("wordsFile", "D:\\WorkSpace\\work4Git\\Knowledge_Structure\\00.语言\\Java\\代码\\java-study\\src\\main\\java\\com\\yao\\utils\\apache\\storm\\helloWorld\\resources\\words.txt");
+		conf.put("wordsFile", "D:\\WorkSpace\\work4Git\\Knowledge_Structure\\20.框架\\Storm\\src\\main\\java\\helloWorld\\resources\\words.txt");
 		conf.setDebug(false);
 		conf.put(Config.TOPOLOGY_MAX_SPOUT_PENDING, 1);
 
