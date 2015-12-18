@@ -14,4 +14,7 @@ really
 StOrm
 is
 great
-
+already
+skipping
+META-INF
+maven
