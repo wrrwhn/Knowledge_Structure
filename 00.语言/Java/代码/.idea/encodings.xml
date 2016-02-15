@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/java-design-patterns" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/abstract-factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/adapter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/bridge" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/builder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/callback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/chain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/command" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/composite" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/decorator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/double-checked-locking" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/event-aggregator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/execute-around" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/factory-method" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/flyweight" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/intercepting-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/interpreter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/iterator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/lazy-loading" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/mediator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/memento" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/model-view-presenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/null-object" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/observer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/poison-pill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/property" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/prototype" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/servant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/service-locator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/singleton" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/state" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/strategy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/template-method" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-design-patterns/visitor" charset="UTF-8" />
+  </component>
+</project>

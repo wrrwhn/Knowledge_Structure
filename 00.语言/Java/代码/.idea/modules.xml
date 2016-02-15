@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/Utils.for.work.iml" filepath="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/Utils.for.work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/abstract-factory/abstract-factory.iml" filepath="$PROJECT_DIR$/java-design-patterns/abstract-factory/abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/adapter/adapter.iml" filepath="$PROJECT_DIR$/java-design-patterns/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/bridge/bridge.iml" filepath="$PROJECT_DIR$/java-design-patterns/bridge/bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/builder/builder.iml" filepath="$PROJECT_DIR$/java-design-patterns/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/callback/callback.iml" filepath="$PROJECT_DIR$/java-design-patterns/callback/callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/chain/chain.iml" filepath="$PROJECT_DIR$/java-design-patterns/chain/chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/command/command.iml" filepath="$PROJECT_DIR$/java-design-patterns/command/command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/composite/composite.iml" filepath="$PROJECT_DIR$/java-design-patterns/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/decorator/decorator.iml" filepath="$PROJECT_DIR$/java-design-patterns/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/double-checked-locking/double-checked-locking.iml" filepath="$PROJECT_DIR$/java-design-patterns/double-checked-locking/double-checked-locking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/event-aggregator/event-aggregator.iml" filepath="$PROJECT_DIR$/java-design-patterns/event-aggregator/event-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/execute-around/execute-around.iml" filepath="$PROJECT_DIR$/java-design-patterns/execute-around/execute-around.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/facade/facade.iml" filepath="$PROJECT_DIR$/java-design-patterns/facade/facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/factory-method/factory-method.iml" filepath="$PROJECT_DIR$/java-design-patterns/factory-method/factory-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/flyweight/flyweight.iml" filepath="$PROJECT_DIR$/java-design-patterns/flyweight/flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/intercepting-filter/intercepting-filter.iml" filepath="$PROJECT_DIR$/java-design-patterns/intercepting-filter/intercepting-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/interpreter/interpreter.iml" filepath="$PROJECT_DIR$/java-design-patterns/interpreter/interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/iterator/iterator.iml" filepath="$PROJECT_DIR$/java-design-patterns/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/java-design-patterns.iml" filepath="$PROJECT_DIR$/java-design-patterns/java-design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/lazy-loading/lazy-loading.iml" filepath="$PROJECT_DIR$/java-design-patterns/lazy-loading/lazy-loading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/mediator/mediator.iml" filepath="$PROJECT_DIR$/java-design-patterns/mediator/mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/memento/memento.iml" filepath="$PROJECT_DIR$/java-design-patterns/memento/memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/model-view-presenter/model-view-presenter.iml" filepath="$PROJECT_DIR$/java-design-patterns/model-view-presenter/model-view-presenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/null-object/null-object.iml" filepath="$PROJECT_DIR$/java-design-patterns/null-object/null-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/observer/observer.iml" filepath="$PROJECT_DIR$/java-design-patterns/observer/observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/poison-pill/poison-pill.iml" filepath="$PROJECT_DIR$/java-design-patterns/poison-pill/poison-pill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/property/property.iml" filepath="$PROJECT_DIR$/java-design-patterns/property/property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/prototype/prototype.iml" filepath="$PROJECT_DIR$/java-design-patterns/prototype/prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/proxy/proxy.iml" filepath="$PROJECT_DIR$/java-design-patterns/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/servant/servant.iml" filepath="$PROJECT_DIR$/java-design-patterns/servant/servant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/service-locator/service-locator.iml" filepath="$PROJECT_DIR$/java-design-patterns/service-locator/service-locator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/singleton/singleton.iml" filepath="$PROJECT_DIR$/java-design-patterns/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/state/state.iml" filepath="$PROJECT_DIR$/java-design-patterns/state/state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/strategy/strategy.iml" filepath="$PROJECT_DIR$/java-design-patterns/strategy/strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-study/study.iml" filepath="$PROJECT_DIR$/java-study/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/template-method/template-method.iml" filepath="$PROJECT_DIR$/java-design-patterns/template-method/template-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-design-patterns/visitor/visitor.iml" filepath="$PROJECT_DIR$/java-design-patterns/visitor/visitor.iml" />
+    </modules>
+  </component>
+</project>

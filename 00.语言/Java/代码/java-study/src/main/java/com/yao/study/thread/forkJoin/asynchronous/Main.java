@@ -20,7 +20,7 @@ public class Main {
         ForkJoinPool pool= new ForkJoinPool();
 
         FolderTask bat = new FolderTask("D:\\server", "bat");
-        FolderTask word= new FolderTask("D:\\知识结构\\40.技巧\\沟通\\文档", "docx");
+        FolderTask word= new FolderTask("D:\\知识结构\\40.技巧\\沟通\\文档","docx");
         FolderTask pdf= new FolderTask("D:\\download", "xmind");
 
         pool.execute(bat);
