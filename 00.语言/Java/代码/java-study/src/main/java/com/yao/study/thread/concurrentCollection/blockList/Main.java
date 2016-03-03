@@ -27,7 +27,7 @@ public class Main {
                 String req = deque.take();
                 System.out.printf("Main: Request: {%s} at %s. Left Size is %d\n", req, new Date(), deque.size());
             }
-            TimeUnit.MILLISECONDS.sleep(300);
+            TimeUnit.MILLISECONDS.sleep(1);
         }
 
         System.out.printf("Main finished");
