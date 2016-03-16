@@ -3,12 +3,18 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../../../web_news_fzsfxd/core" />
+    <file type="web" url="file://$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd" />
+  </component>
   <component name="IdProvider" IDEtalkID="E76FBC64F1955DC71F4E2734E15534C8" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/java-study/pom.xml" />
         <option value="$PROJECT_DIR$/java-design-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../web_news_fzsfxd/core/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/pom.xml" />
       </list>
     </option>
   </component>

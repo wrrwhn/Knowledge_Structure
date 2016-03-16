@@ -58,6 +58,7 @@
         <module name="template-method" />
         <module name="Utils.for.work" />
         <module name="visitor" />
+        <module name="web_news_fzsfxd" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -99,6 +100,7 @@
       <module name="template-method" target="1.8" />
       <module name="Utils.for.work" target="1.8" />
       <module name="visitor" target="1.8" />
+      <module name="web_news_fzsfxd" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
