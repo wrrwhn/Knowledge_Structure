@@ -40,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-study/study.iml" filepath="$PROJECT_DIR$/java-study/study.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-design-patterns/template-method/template-method.iml" filepath="$PROJECT_DIR$/java-design-patterns/template-method/template-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-design-patterns/visitor/visitor.iml" filepath="$PROJECT_DIR$/java-design-patterns/visitor/visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/web_news_fzsfxd.iml" filepath="$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/web_news_fzsfxd.iml" />
     </modules>
   </component>
 </project>

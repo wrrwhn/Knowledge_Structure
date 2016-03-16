@@ -43,6 +43,8 @@
     <ignored path="$PROJECT_DIR$/java-design-patterns/singleton/target/" />
     <ignored path="$PROJECT_DIR$/java-design-patterns/target/" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/../../../../web_news_fzsfxd/core/target/" />
+    <ignored path="$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,557 +69,7 @@
     <favorites_list name="代码" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31491712" vertical-offset="0" max-vertical-offset="905">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BigDecimal.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/math/BigDecimal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5178" max-vertical-offset="14364">
-              <caret line="2354" column="0" selection-start-line="2354" selection-start-column="0" selection-end-line="2354" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#219951#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="docComment;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#intVal#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#scale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#precision#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#stringCache#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#INFLATED#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#intCompact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="class#11956:12127" expanded="false" />
-                <element signature="e#12064#12065#0" expanded="false" />
-                <element signature="e#12120#12121#0" expanded="false" />
-                <element signature="docComment;field#ZERO#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#ONE#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#TEN#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#1;class#BigDecimal#0" expanded="false" />
-                <element signature="e#15818#15819#0" expanded="false" />
-                <element signature="e#15875#15876#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#2;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#2;class#BigDecimal#0" expanded="false" />
-                <element signature="e#17303#17363#0" expanded="false" />
-                <element signature="e#17903#17961#0" expanded="false" />
-                <element signature="e#18722#18786#0" expanded="false" />
-                <element signature="e#18929#18989#0" expanded="false" />
-                <element signature="e#19919#19930#0" expanded="false" />
-                <element signature="e#22601#22661#0" expanded="false" />
-                <element signature="method#adjustScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#parseExp#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#3;class#BigDecimal#0" expanded="false" />
-                <element signature="e#28781#28782#0" expanded="false" />
-                <element signature="e#28819#28820#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#4;class#BigDecimal#0" expanded="false" />
-                <element signature="e#29794#29795#0" expanded="false" />
-                <element signature="e#29836#29837#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#5;class#BigDecimal#0" expanded="false" />
-                <element signature="e#34114#34115#0" expanded="false" />
-                <element signature="e#34170#34171#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#6;class#BigDecimal#0" expanded="false" />
-                <element signature="e#34844#34845#0" expanded="false" />
-                <element signature="e#34904#34905#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#7;class#BigDecimal#0" expanded="false" />
-                <element signature="e#37053#37054#0" expanded="false" />
-                <element signature="e#37100#37101#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#8;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#8;class#BigDecimal#0" expanded="false" />
-                <element signature="e#38100#38170#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#9;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#9;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#10;class#BigDecimal#0" expanded="false" />
-                <element signature="e#42006#42007#0" expanded="false" />
-                <element signature="e#42036#42037#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#11;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#11;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#12;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#12;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#13;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#13;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#14;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#14;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#15;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#15;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#BigDecimal#16;class#BigDecimal#0" expanded="false" />
-                <element signature="method#BigDecimal#16;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#valueOf#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#valueOf#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#valueOf#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#valueOf#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#valueOf#2;class#BigDecimal#0" expanded="false" />
-                <element signature="method#valueOf#3;class#BigDecimal#0" expanded="false" />
-                <element signature="method#zeroValueOf#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#valueOf#4;class#BigDecimal#0" expanded="false" />
-                <element signature="method#valueOf#4;class#BigDecimal#0" expanded="false" />
-                <element signature="e#52386#52449#0" expanded="false" />
-                <element signature="docComment;method#add#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#add#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#add#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#add#1;class#BigDecimal#0" expanded="false" />
-                <element signature="e#54403#54465#0" expanded="false" />
-                <element signature="docComment;method#preAlign#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#preAlign#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#58832#58889#0" expanded="false" />
-                <element signature="docComment;method#subtract#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#subtract#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#59790#59839#0" expanded="false" />
-                <element signature="docComment;method#subtract#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#subtract#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#multiply#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiply#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#multiply#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiply#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divide#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divide#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divide#2;class#BigDecimal#0" expanded="false" />
-                <element signature="e#67889#67890#0" expanded="false" />
-                <element signature="e#67953#67954#0" expanded="false" />
-                <element signature="docComment;method#divide#3;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#3;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divide#4;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#4;class#BigDecimal#0" expanded="false" />
-                <element signature="e#71133#71190#0" expanded="false" />
-                <element signature="docComment;method#divide#5;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#5;class#BigDecimal#0" expanded="false" />
-                <element signature="e#72404#72453#0" expanded="false" />
-                <element signature="docComment;method#divideToIntegralValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideToIntegralValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#75179#75239#0" expanded="false" />
-                <element signature="docComment;method#divideToIntegralValue#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideToIntegralValue#1;class#BigDecimal#0" expanded="false" />
-                <element signature="e#78344#78389#0" expanded="false" />
-                <element signature="docComment;method#remainder#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#remainder#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#remainder#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#remainder#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideAndRemainder#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRemainder#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideAndRemainder#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRemainder#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#pow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#pow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#85494#85555#0" expanded="false" />
-                <element signature="docComment;method#pow#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#pow#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#abs#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#90031#90032#0" expanded="false" />
-                <element signature="e#90086#90087#0" expanded="false" />
-                <element signature="docComment;method#abs#1;class#BigDecimal#0" expanded="false" />
-                <element signature="e#90547#90548#0" expanded="false" />
-                <element signature="e#90608#90609#0" expanded="false" />
-                <element signature="docComment;method#negate#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#negate#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#negate#1;class#BigDecimal#0" expanded="false" />
-                <element signature="e#91445#91446#0" expanded="false" />
-                <element signature="e#91485#91486#0" expanded="false" />
-                <element signature="docComment;method#plus#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#91887#91888#0" expanded="false" />
-                <element signature="e#91914#91915#0" expanded="false" />
-                <element signature="docComment;method#plus#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#plus#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#signum#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#signum#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#scale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#93495#93496#0" expanded="false" />
-                <element signature="e#93523#93524#0" expanded="false" />
-                <element signature="docComment;method#precision#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#precision#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#unscaledValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#94467#94468#0" expanded="false" />
-                <element signature="e#94505#94506#0" expanded="false" />
-                <element signature="docComment;field#ROUND_UP#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#ROUND_DOWN#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#ROUND_CEILING#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#ROUND_FLOOR#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#ROUND_HALF_UP#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#ROUND_HALF_DOWN#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#ROUND_HALF_EVEN#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#ROUND_UNNECESSARY#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#round#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#98207#98208#0" expanded="false" />
-                <element signature="e#98238#98239#0" expanded="false" />
-                <element signature="docComment;method#setScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#setScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#setScale#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#setScale#1;class#BigDecimal#0" expanded="false" />
-                <element signature="e#102915#102957#0" expanded="false" />
-                <element signature="e#103779#103821#0" expanded="false" />
-                <element signature="docComment;method#setScale#2;class#BigDecimal#0" expanded="false" />
-                <element signature="e#106317#106318#0" expanded="false" />
-                <element signature="e#106377#106378#0" expanded="false" />
-                <element signature="docComment;method#movePointLeft#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#movePointLeft#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#movePointRight#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#movePointRight#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#scaleByPowerOfTen#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#scaleByPowerOfTen#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#stripTrailingZeros#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#stripTrailingZeros#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#compareTo#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#compareTo#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#compareMagnitude#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#compareMagnitude#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#113133#113145#0" expanded="false" />
-                <element signature="docComment;method#equals#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#equals#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#min#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#115713#115714#0" expanded="false" />
-                <element signature="e#115770#115771#0" expanded="false" />
-                <element signature="docComment;method#max#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#116291#116292#0" expanded="false" />
-                <element signature="e#116348#116349#0" expanded="false" />
-                <element signature="docComment;method#hashCode#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#hashCode#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#toString#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#toString#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#toEngineeringString#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#123496#123497#0" expanded="false" />
-                <element signature="e#123537#123538#0" expanded="false" />
-                <element signature="docComment;method#toPlainString#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#toPlainString#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#getValueString#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#toBigInteger#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#toBigInteger#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#toBigIntegerExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#toBigIntegerExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#longValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#longValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#longValueExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#longValueExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#130481#130544#0" expanded="false" />
-                <element signature="class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#LONGMIN#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#LONGMAX#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#check#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#intValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#intValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#intValueExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#intValueExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#shortValueExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#shortValueExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#byteValueExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#byteValueExact#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#floatValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#floatValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#136138#136169#0" expanded="false" />
-                <element signature="docComment;method#doubleValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#doubleValue#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#138008#138039#0" expanded="false" />
-                <element signature="docComment;field#double10pow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;field#float10pow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#ulp#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#139900#139901#0" expanded="false" />
-                <element signature="e#139961#139962#0" expanded="false" />
-                <element signature="n#!!doc;n#StringBuilderHelper#0;n#BigDecimal#0" expanded="false" />
-                <element signature="class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#StringBuilderHelper#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#getStringBuilder#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#141074#141075#0" expanded="false" />
-                <element signature="e#141117#141118#0" expanded="false" />
-                <element signature="docComment;method#putIntCompact#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#putIntCompact#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#141674#141743#0" expanded="false" />
-                <element signature="docComment;method#layoutChars#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#layoutChars#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#145665#145727#0" expanded="false" />
-                <element signature="docComment;method#bigTenToThe#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#bigTenToThe#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#expandBigIntegerTenPowers#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#expandBigIntegerTenPowers#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#150106#150173#0" expanded="false" />
-                <element signature="e#150581#150613#0" expanded="false" />
-                <element signature="docComment;method#longMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#longMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#bigMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#bigMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#inflated#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#inflated#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#matchScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#matchScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
-                <element signature="initializer##0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#setIntCompactVolatile#0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#setIntValVolatile#0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#readObject#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#readObject#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#writeObject#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#writeObject#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#longDigitLength#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#longDigitLength#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#bigDigitLength#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#bigDigitLength#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#checkScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#checkScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#compactValFor#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#compactValFor#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#longCompareMagnitude#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#saturateLong#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#print#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#audit#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#audit#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#checkScaleNonZero#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#checkScale#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#checkScale#2;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#doRound#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#doRound#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#doRound#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#doRound#2;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRoundByTenPow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideAndRound#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRound#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideAndRound#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRound#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#commonNeedIncrement#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#commonNeedIncrement#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#needIncrement#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#needIncrement#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideAndRound#2;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRound#2;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideAndRound#3;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRound#3;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#needIncrement#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#needIncrement#1;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideAndRound#4;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRound#4;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideAndRound#5;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRound#5;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#needIncrement#2;class#BigDecimal#0" expanded="false" />
-                <element signature="method#needIncrement#2;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#createAndStripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#createAndStripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#createAndStripZerosToMatchScale#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#createAndStripZerosToMatchScale#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#stripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#add#2;class#BigDecimal#0" expanded="false" />
-                <element signature="e#184149#184206#0" expanded="false" />
-                <element signature="method#add#3;class#BigDecimal#0" expanded="false" />
-                <element signature="method#add#4;class#BigDecimal#0" expanded="false" />
-                <element signature="method#add#5;class#BigDecimal#0" expanded="false" />
-                <element signature="method#add#6;class#BigDecimal#0" expanded="false" />
-                <element signature="method#bigMultiplyPowerTen#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#bigMultiplyPowerTen#2;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divideSmallFastPath#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideSmallFastPath#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#191026#191052#0" expanded="false" />
-                <element signature="docComment;method#divide#6;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#6;class#BigDecimal#0" expanded="false" />
-                <element signature="e#193126#193196#0" expanded="false" />
-                <element signature="docComment;method#divide#7;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#7;class#BigDecimal#0" expanded="false" />
-                <element signature="e#195610#195680#0" expanded="false" />
-                <element signature="docComment;method#divide#8;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#8;class#BigDecimal#0" expanded="false" />
-                <element signature="e#197769#197839#0" expanded="false" />
-                <element signature="docComment;method#divide#9;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#9;class#BigDecimal#0" expanded="false" />
-                <element signature="e#199435#199505#0" expanded="false" />
-                <element signature="method#multiplyDivideAndRound#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divideAndRound128#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#204019#204066#0" expanded="false" />
-                <element signature="method#roundedTenPower#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#scaledTenPow#0;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#divRemNegativeLong#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divRemNegativeLong#0;class#BigDecimal#0" expanded="false" />
-                <element signature="e#207598#207599#0" expanded="false" />
-                <element signature="e#207632#207633#0" expanded="false" />
-                <element signature="method#mulsub#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#unsignedLongCompare#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#unsignedLongCompareEq#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#compareMagnitudeNormalized#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#compareMagnitudeNormalized#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#compareMagnitudeNormalized#2;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiply#2;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiply#3;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiply#4;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiply#5;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#multiplyAndRound#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiplyAndRound#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiplyAndRound#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#multiplyAndRound#2;class#BigDecimal#0" expanded="false" />
-                <element signature="docComment;method#doRound128#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#doRound128#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#precision#1;class#BigDecimal#0" expanded="false" />
-                <element signature="method#longLongCompareMagnitude#0;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#10;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#11;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#12;class#BigDecimal#0" expanded="false" />
-                <element signature="method#divide#13;class#BigDecimal#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberFormat.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/text/NumberFormat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1938" max-vertical-offset="4446">
-              <caret line="289" column="44" selection-start-line="289" selection-start-column="38" selection-end-line="289" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#48080#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="docComment;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#INTEGER_FIELD#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#FRACTION_FIELD#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#NumberFormat#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#NumberFormat#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#format#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#format#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#parseObject#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#11318#11319#0" expanded="false" />
-                <element signature="e#11359#11360#0" expanded="false" />
-                <element signature="docComment;method#format#1;class#NumberFormat#0" expanded="false" />
-                <element signature="method#format#1;class#NumberFormat#0" expanded="false" />
-                <element signature="method#fastFormat#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#format#2;class#NumberFormat#0" expanded="false" />
-                <element signature="method#format#2;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#format#3;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#format#4;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#parse#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#parse#1;class#NumberFormat#0" expanded="false" />
-                <element signature="method#parse#1;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#isParseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#16253#16254#0" expanded="false" />
-                <element signature="e#16292#16293#0" expanded="false" />
-                <element signature="docComment;method#setParseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#16594#16595#0" expanded="false" />
-                <element signature="e#16634#16635#0" expanded="false" />
-                <element signature="docComment;method#getInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getInstance#1;class#NumberFormat#0" expanded="false" />
-                <element signature="e#17589#17590#0" expanded="false" />
-                <element signature="e#17646#17647#0" expanded="false" />
-                <element signature="docComment;method#getNumberInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getNumberInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getNumberInstance#1;class#NumberFormat#0" expanded="false" />
-                <element signature="e#18615#18616#0" expanded="false" />
-                <element signature="e#18672#18673#0" expanded="false" />
-                <element signature="docComment;method#getIntegerInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getIntegerInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getIntegerInstance#1;class#NumberFormat#0" expanded="false" />
-                <element signature="e#20342#20343#0" expanded="false" />
-                <element signature="e#20400#20401#0" expanded="false" />
-                <element signature="docComment;method#getCurrencyInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getCurrencyInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getCurrencyInstance#1;class#NumberFormat#0" expanded="false" />
-                <element signature="e#21309#21310#0" expanded="false" />
-                <element signature="e#21368#21369#0" expanded="false" />
-                <element signature="docComment;method#getPercentInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getPercentInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getPercentInstance#1;class#NumberFormat#0" expanded="false" />
-                <element signature="e#22280#22281#0" expanded="false" />
-                <element signature="e#22338#22339#0" expanded="false" />
-                <element signature="docComment;method#getScientificInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getScientificInstance#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getScientificInstance#1;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getScientificInstance#1;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getAvailableLocales#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getAvailableLocales#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#hashCode#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#hashCode#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#equals#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#equals#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#clone#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#clone#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#isGroupingUsed#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#25287#25288#0" expanded="false" />
-                <element signature="e#25322#25323#0" expanded="false" />
-                <element signature="docComment;method#setGroupingUsed#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#25594#25595#0" expanded="false" />
-                <element signature="e#25633#25634#0" expanded="false" />
-                <element signature="docComment;method#getMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#25876#25877#0" expanded="false" />
-                <element signature="e#25919#25920#0" expanded="false" />
-                <element signature="docComment;method#setMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#setMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#27030#27031#0" expanded="false" />
-                <element signature="e#27073#27074#0" expanded="false" />
-                <element signature="docComment;method#setMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#setMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#28182#28183#0" expanded="false" />
-                <element signature="e#28226#28227#0" expanded="false" />
-                <element signature="docComment;method#setMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#setMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#29354#29355#0" expanded="false" />
-                <element signature="e#29398#29399#0" expanded="false" />
-                <element signature="docComment;method#setMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#setMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#getCurrency#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#30981#30982#0" expanded="false" />
-                <element signature="e#31038#31039#0" expanded="false" />
-                <element signature="docComment;method#setCurrency#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#31693#31694#0" expanded="false" />
-                <element signature="e#31750#31751#0" expanded="false" />
-                <element signature="docComment;method#getRoundingMode#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#32368#32369#0" expanded="false" />
-                <element signature="e#32425#32426#0" expanded="false" />
-                <element signature="docComment;method#setRoundingMode#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#33119#33120#0" expanded="false" />
-                <element signature="e#33176#33177#0" expanded="false" />
-                <element signature="method#getInstance#2;class#NumberFormat#0" expanded="false" />
-                <element signature="method#getInstance#3;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#readObject#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#readObject#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#writeObject#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#writeObject#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#groupingUsed#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#maxIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#minIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#maxFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#minFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#parseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#maximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#minimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#maximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#minimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#serialVersionOnStream#0;class#NumberFormat#0" expanded="false" />
-                <element signature="e#44512#44514#0" expanded="false" />
-                <element signature="docComment;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#Field#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#Field#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;method#readResolve#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="method#readResolve#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#INTEGER#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#FRACTION#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#EXPONENT#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#DECIMAL_SEPARATOR#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#SIGN#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#GROUPING_SEPARATOR#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#EXPONENT_SYMBOL#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#PERCENT#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#PERMILLE#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#CURRENCY#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-                <element signature="docComment;field#EXPONENT_SIGN#0;class#Field#0;class#NumberFormat#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work" />
@@ -630,6 +82,7 @@
         <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/study/designPatterns/state/upgrade/WinnerState.java" />
         <option value="$PROJECT_DIR$/java-study/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/Person.java" />
+        <option value="$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/src/main/java/com/yao/credit/mapping/CreditMapper.xml" />
       </list>
     </option>
   </component>
@@ -740,82 +193,14 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="代码" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Utils.for.work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Utils.for.work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Utils.for.work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Utils.for.work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.yao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -833,7 +218,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../web_news_fzsfxd" />
     <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -1179,38 +564,43 @@
       <workItem from="1453453404870" duration="2804000" />
       <workItem from="1453877526696" duration="3666000" />
       <workItem from="1453972235604" duration="1071000" />
+      <workItem from="1457923427915" duration="1547000" />
+      <workItem from="1458098706302" duration="2410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7541000" />
+    <option name="totallyTimeSpent" value="11498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19296375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19509594" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1219,7 +609,6 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1249,6 +638,1088 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="570">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="437">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5178" max-vertical-offset="14364">
+          <caret line="2354" column="0" selection-start-line="2354" selection-start-column="0" selection-end-line="2354" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#219951#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="docComment;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#intVal#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#scale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#precision#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#stringCache#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#INFLATED#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#intCompact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="class#11956:12127" expanded="false" />
+            <element signature="e#12064#12065#0" expanded="false" />
+            <element signature="e#12120#12121#0" expanded="false" />
+            <element signature="docComment;field#ZERO#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ONE#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#TEN#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#15818#15819#0" expanded="false" />
+            <element signature="e#15875#15876#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#2;class#BigDecimal#0" expanded="false" />
+            <element signature="e#17303#17363#0" expanded="false" />
+            <element signature="e#17903#17961#0" expanded="false" />
+            <element signature="e#18722#18786#0" expanded="false" />
+            <element signature="e#18929#18989#0" expanded="false" />
+            <element signature="e#19919#19930#0" expanded="false" />
+            <element signature="e#22601#22661#0" expanded="false" />
+            <element signature="method#adjustScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#parseExp#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#3;class#BigDecimal#0" expanded="false" />
+            <element signature="e#28781#28782#0" expanded="false" />
+            <element signature="e#28819#28820#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#4;class#BigDecimal#0" expanded="false" />
+            <element signature="e#29794#29795#0" expanded="false" />
+            <element signature="e#29836#29837#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#5;class#BigDecimal#0" expanded="false" />
+            <element signature="e#34114#34115#0" expanded="false" />
+            <element signature="e#34170#34171#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#6;class#BigDecimal#0" expanded="false" />
+            <element signature="e#34844#34845#0" expanded="false" />
+            <element signature="e#34904#34905#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#7;class#BigDecimal#0" expanded="false" />
+            <element signature="e#37053#37054#0" expanded="false" />
+            <element signature="e#37100#37101#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#8;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#8;class#BigDecimal#0" expanded="false" />
+            <element signature="e#38100#38170#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#9;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#9;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#10;class#BigDecimal#0" expanded="false" />
+            <element signature="e#42006#42007#0" expanded="false" />
+            <element signature="e#42036#42037#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#11;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#11;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#12;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#12;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#13;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#13;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#14;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#14;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#15;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#15;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#16;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#16;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#valueOf#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#valueOf#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#zeroValueOf#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#valueOf#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#4;class#BigDecimal#0" expanded="false" />
+            <element signature="e#52386#52449#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#add#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#54403#54465#0" expanded="false" />
+            <element signature="docComment;method#preAlign#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#preAlign#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#58832#58889#0" expanded="false" />
+            <element signature="docComment;method#subtract#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#subtract#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#59790#59839#0" expanded="false" />
+            <element signature="docComment;method#subtract#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#subtract#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#multiply#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#multiply#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divide#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divide#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divide#2;class#BigDecimal#0" expanded="false" />
+            <element signature="e#67889#67890#0" expanded="false" />
+            <element signature="e#67953#67954#0" expanded="false" />
+            <element signature="docComment;method#divide#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#3;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divide#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#4;class#BigDecimal#0" expanded="false" />
+            <element signature="e#71133#71190#0" expanded="false" />
+            <element signature="docComment;method#divide#5;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#5;class#BigDecimal#0" expanded="false" />
+            <element signature="e#72404#72453#0" expanded="false" />
+            <element signature="docComment;method#divideToIntegralValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideToIntegralValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#75179#75239#0" expanded="false" />
+            <element signature="docComment;method#divideToIntegralValue#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideToIntegralValue#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#78344#78389#0" expanded="false" />
+            <element signature="docComment;method#remainder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#remainder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#remainder#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#remainder#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRemainder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainder#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRemainder#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#pow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#pow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#85494#85555#0" expanded="false" />
+            <element signature="docComment;method#pow#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#pow#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#abs#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#90031#90032#0" expanded="false" />
+            <element signature="e#90086#90087#0" expanded="false" />
+            <element signature="docComment;method#abs#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#90547#90548#0" expanded="false" />
+            <element signature="e#90608#90609#0" expanded="false" />
+            <element signature="docComment;method#negate#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#negate#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#negate#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#91445#91446#0" expanded="false" />
+            <element signature="e#91485#91486#0" expanded="false" />
+            <element signature="docComment;method#plus#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#91887#91888#0" expanded="false" />
+            <element signature="e#91914#91915#0" expanded="false" />
+            <element signature="docComment;method#plus#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#plus#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#signum#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#signum#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#scale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#93495#93496#0" expanded="false" />
+            <element signature="e#93523#93524#0" expanded="false" />
+            <element signature="docComment;method#precision#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#precision#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#unscaledValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#94467#94468#0" expanded="false" />
+            <element signature="e#94505#94506#0" expanded="false" />
+            <element signature="docComment;field#ROUND_UP#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_DOWN#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_CEILING#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_FLOOR#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_HALF_UP#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_HALF_DOWN#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_HALF_EVEN#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_UNNECESSARY#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#round#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#98207#98208#0" expanded="false" />
+            <element signature="e#98238#98239#0" expanded="false" />
+            <element signature="docComment;method#setScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#setScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#setScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#setScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#102915#102957#0" expanded="false" />
+            <element signature="e#103779#103821#0" expanded="false" />
+            <element signature="docComment;method#setScale#2;class#BigDecimal#0" expanded="false" />
+            <element signature="e#106317#106318#0" expanded="false" />
+            <element signature="e#106377#106378#0" expanded="false" />
+            <element signature="docComment;method#movePointLeft#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#movePointLeft#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#movePointRight#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#movePointRight#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#scaleByPowerOfTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#scaleByPowerOfTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#stripTrailingZeros#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#stripTrailingZeros#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#compareTo#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareTo#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#compareMagnitude#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareMagnitude#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#113133#113145#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#equals#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#min#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#115713#115714#0" expanded="false" />
+            <element signature="e#115770#115771#0" expanded="false" />
+            <element signature="docComment;method#max#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#116291#116292#0" expanded="false" />
+            <element signature="e#116348#116349#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#hashCode#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#toString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#toEngineeringString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#123496#123497#0" expanded="false" />
+            <element signature="e#123537#123538#0" expanded="false" />
+            <element signature="docComment;method#toPlainString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#toPlainString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#getValueString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#toBigInteger#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#toBigInteger#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#toBigIntegerExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#toBigIntegerExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#longValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#longValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#130481#130544#0" expanded="false" />
+            <element signature="class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#LONGMIN#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#LONGMAX#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#check#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#intValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#intValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#intValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#intValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#shortValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#shortValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#byteValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#byteValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#floatValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#floatValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#136138#136169#0" expanded="false" />
+            <element signature="docComment;method#doubleValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doubleValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#138008#138039#0" expanded="false" />
+            <element signature="docComment;field#double10pow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#float10pow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#ulp#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#139900#139901#0" expanded="false" />
+            <element signature="e#139961#139962#0" expanded="false" />
+            <element signature="n#!!doc;n#StringBuilderHelper#0;n#BigDecimal#0" expanded="false" />
+            <element signature="class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#StringBuilderHelper#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#getStringBuilder#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#141074#141075#0" expanded="false" />
+            <element signature="e#141117#141118#0" expanded="false" />
+            <element signature="docComment;method#putIntCompact#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#putIntCompact#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#141674#141743#0" expanded="false" />
+            <element signature="docComment;method#layoutChars#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#layoutChars#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#145665#145727#0" expanded="false" />
+            <element signature="docComment;method#bigTenToThe#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigTenToThe#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#expandBigIntegerTenPowers#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#expandBigIntegerTenPowers#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#150106#150173#0" expanded="false" />
+            <element signature="e#150581#150613#0" expanded="false" />
+            <element signature="docComment;method#longMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#bigMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#inflated#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#inflated#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#matchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#matchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="initializer##0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#setIntCompactVolatile#0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#setIntValVolatile#0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#readObject#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#writeObject#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#longDigitLength#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longDigitLength#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#bigDigitLength#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigDigitLength#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#checkScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#checkScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#compactValFor#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compactValFor#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longCompareMagnitude#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#saturateLong#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#print#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#audit#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#audit#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#checkScaleNonZero#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#checkScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#checkScale#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#doRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doRound#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doRound#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRoundByTenPow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#commonNeedIncrement#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#commonNeedIncrement#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#needIncrement#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#needIncrement#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#3;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#needIncrement#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#needIncrement#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#4;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#5;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#5;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#needIncrement#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#needIncrement#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#createAndStripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#createAndStripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#createAndStripZerosToMatchScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#createAndStripZerosToMatchScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#stripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#2;class#BigDecimal#0" expanded="false" />
+            <element signature="e#184149#184206#0" expanded="false" />
+            <element signature="method#add#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#5;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#6;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigMultiplyPowerTen#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigMultiplyPowerTen#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideSmallFastPath#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideSmallFastPath#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#191026#191052#0" expanded="false" />
+            <element signature="docComment;method#divide#6;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#6;class#BigDecimal#0" expanded="false" />
+            <element signature="e#193126#193196#0" expanded="false" />
+            <element signature="docComment;method#divide#7;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#7;class#BigDecimal#0" expanded="false" />
+            <element signature="e#195610#195680#0" expanded="false" />
+            <element signature="docComment;method#divide#8;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#8;class#BigDecimal#0" expanded="false" />
+            <element signature="e#197769#197839#0" expanded="false" />
+            <element signature="docComment;method#divide#9;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#9;class#BigDecimal#0" expanded="false" />
+            <element signature="e#199435#199505#0" expanded="false" />
+            <element signature="method#multiplyDivideAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound128#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#204019#204066#0" expanded="false" />
+            <element signature="method#roundedTenPower#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#scaledTenPow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divRemNegativeLong#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divRemNegativeLong#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#207598#207599#0" expanded="false" />
+            <element signature="e#207632#207633#0" expanded="false" />
+            <element signature="method#mulsub#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#unsignedLongCompare#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#unsignedLongCompareEq#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareMagnitudeNormalized#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareMagnitudeNormalized#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareMagnitudeNormalized#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#5;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#multiplyAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiplyAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiplyAndRound#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiplyAndRound#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#doRound128#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doRound128#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#precision#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longLongCompareMagnitude#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#10;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#11;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#12;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#13;class#BigDecimal#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/text/NumberFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1938" max-vertical-offset="4446">
+          <caret line="289" column="44" selection-start-line="289" selection-start-column="38" selection-end-line="289" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#48080#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="docComment;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#INTEGER_FIELD#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#FRACTION_FIELD#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#NumberFormat#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#NumberFormat#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#format#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#format#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#parseObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#11318#11319#0" expanded="false" />
+            <element signature="e#11359#11360#0" expanded="false" />
+            <element signature="docComment;method#format#1;class#NumberFormat#0" expanded="false" />
+            <element signature="method#format#1;class#NumberFormat#0" expanded="false" />
+            <element signature="method#fastFormat#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#format#2;class#NumberFormat#0" expanded="false" />
+            <element signature="method#format#2;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#format#3;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#format#4;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#parse#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#parse#1;class#NumberFormat#0" expanded="false" />
+            <element signature="method#parse#1;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#isParseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#16253#16254#0" expanded="false" />
+            <element signature="e#16292#16293#0" expanded="false" />
+            <element signature="docComment;method#setParseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#16594#16595#0" expanded="false" />
+            <element signature="e#16634#16635#0" expanded="false" />
+            <element signature="docComment;method#getInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#17589#17590#0" expanded="false" />
+            <element signature="e#17646#17647#0" expanded="false" />
+            <element signature="docComment;method#getNumberInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getNumberInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getNumberInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#18615#18616#0" expanded="false" />
+            <element signature="e#18672#18673#0" expanded="false" />
+            <element signature="docComment;method#getIntegerInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getIntegerInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getIntegerInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#20342#20343#0" expanded="false" />
+            <element signature="e#20400#20401#0" expanded="false" />
+            <element signature="docComment;method#getCurrencyInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getCurrencyInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getCurrencyInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#21309#21310#0" expanded="false" />
+            <element signature="e#21368#21369#0" expanded="false" />
+            <element signature="docComment;method#getPercentInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getPercentInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getPercentInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#22280#22281#0" expanded="false" />
+            <element signature="e#22338#22339#0" expanded="false" />
+            <element signature="docComment;method#getScientificInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getScientificInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getScientificInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getScientificInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getAvailableLocales#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getAvailableLocales#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#hashCode#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#equals#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#clone#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#isGroupingUsed#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#25287#25288#0" expanded="false" />
+            <element signature="e#25322#25323#0" expanded="false" />
+            <element signature="docComment;method#setGroupingUsed#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#25594#25595#0" expanded="false" />
+            <element signature="e#25633#25634#0" expanded="false" />
+            <element signature="docComment;method#getMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#25876#25877#0" expanded="false" />
+            <element signature="e#25919#25920#0" expanded="false" />
+            <element signature="docComment;method#setMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#setMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#27030#27031#0" expanded="false" />
+            <element signature="e#27073#27074#0" expanded="false" />
+            <element signature="docComment;method#setMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#setMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#28182#28183#0" expanded="false" />
+            <element signature="e#28226#28227#0" expanded="false" />
+            <element signature="docComment;method#setMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#setMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#29354#29355#0" expanded="false" />
+            <element signature="e#29398#29399#0" expanded="false" />
+            <element signature="docComment;method#setMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#setMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getCurrency#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#30981#30982#0" expanded="false" />
+            <element signature="e#31038#31039#0" expanded="false" />
+            <element signature="docComment;method#setCurrency#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#31693#31694#0" expanded="false" />
+            <element signature="e#31750#31751#0" expanded="false" />
+            <element signature="docComment;method#getRoundingMode#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#32368#32369#0" expanded="false" />
+            <element signature="e#32425#32426#0" expanded="false" />
+            <element signature="docComment;method#setRoundingMode#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#33119#33120#0" expanded="false" />
+            <element signature="e#33176#33177#0" expanded="false" />
+            <element signature="method#getInstance#2;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getInstance#3;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#readObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#writeObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#groupingUsed#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#maxIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#minIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#maxFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#minFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#parseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#maximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#minimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#maximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#minimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#serialVersionOnStream#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#44512#44514#0" expanded="false" />
+            <element signature="docComment;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#Field#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#Field#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#readResolve#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#readResolve#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#INTEGER#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#FRACTION#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#EXPONENT#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#DECIMAL_SEPARATOR#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#SIGN#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#GROUPING_SEPARATOR#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#EXPONENT_SYMBOL#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#PERCENT#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#PERMILLE#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#CURRENCY#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#EXPONENT_SIGN#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="570">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5178" max-vertical-offset="14364">
+          <caret line="2354" column="0" selection-start-line="2354" selection-start-column="0" selection-end-line="2354" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#219951#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="docComment;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#intVal#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#scale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#precision#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#stringCache#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#INFLATED#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#intCompact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="class#11956:12127" expanded="false" />
+            <element signature="e#12064#12065#0" expanded="false" />
+            <element signature="e#12120#12121#0" expanded="false" />
+            <element signature="docComment;field#ZERO#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ONE#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#TEN#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#15818#15819#0" expanded="false" />
+            <element signature="e#15875#15876#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#2;class#BigDecimal#0" expanded="false" />
+            <element signature="e#17303#17363#0" expanded="false" />
+            <element signature="e#17903#17961#0" expanded="false" />
+            <element signature="e#18722#18786#0" expanded="false" />
+            <element signature="e#18929#18989#0" expanded="false" />
+            <element signature="e#19919#19930#0" expanded="false" />
+            <element signature="e#22601#22661#0" expanded="false" />
+            <element signature="method#adjustScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#parseExp#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#3;class#BigDecimal#0" expanded="false" />
+            <element signature="e#28781#28782#0" expanded="false" />
+            <element signature="e#28819#28820#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#4;class#BigDecimal#0" expanded="false" />
+            <element signature="e#29794#29795#0" expanded="false" />
+            <element signature="e#29836#29837#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#5;class#BigDecimal#0" expanded="false" />
+            <element signature="e#34114#34115#0" expanded="false" />
+            <element signature="e#34170#34171#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#6;class#BigDecimal#0" expanded="false" />
+            <element signature="e#34844#34845#0" expanded="false" />
+            <element signature="e#34904#34905#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#7;class#BigDecimal#0" expanded="false" />
+            <element signature="e#37053#37054#0" expanded="false" />
+            <element signature="e#37100#37101#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#8;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#8;class#BigDecimal#0" expanded="false" />
+            <element signature="e#38100#38170#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#9;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#9;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#10;class#BigDecimal#0" expanded="false" />
+            <element signature="e#42006#42007#0" expanded="false" />
+            <element signature="e#42036#42037#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#11;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#11;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#12;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#12;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#13;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#13;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#14;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#14;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#15;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#15;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#BigDecimal#16;class#BigDecimal#0" expanded="false" />
+            <element signature="method#BigDecimal#16;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#valueOf#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#valueOf#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#zeroValueOf#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#valueOf#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#valueOf#4;class#BigDecimal#0" expanded="false" />
+            <element signature="e#52386#52449#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#add#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#54403#54465#0" expanded="false" />
+            <element signature="docComment;method#preAlign#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#preAlign#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#58832#58889#0" expanded="false" />
+            <element signature="docComment;method#subtract#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#subtract#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#59790#59839#0" expanded="false" />
+            <element signature="docComment;method#subtract#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#subtract#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#multiply#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#multiply#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divide#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divide#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divide#2;class#BigDecimal#0" expanded="false" />
+            <element signature="e#67889#67890#0" expanded="false" />
+            <element signature="e#67953#67954#0" expanded="false" />
+            <element signature="docComment;method#divide#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#3;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divide#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#4;class#BigDecimal#0" expanded="false" />
+            <element signature="e#71133#71190#0" expanded="false" />
+            <element signature="docComment;method#divide#5;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#5;class#BigDecimal#0" expanded="false" />
+            <element signature="e#72404#72453#0" expanded="false" />
+            <element signature="docComment;method#divideToIntegralValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideToIntegralValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#75179#75239#0" expanded="false" />
+            <element signature="docComment;method#divideToIntegralValue#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideToIntegralValue#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#78344#78389#0" expanded="false" />
+            <element signature="docComment;method#remainder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#remainder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#remainder#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#remainder#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRemainder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRemainder#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRemainder#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#pow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#pow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#85494#85555#0" expanded="false" />
+            <element signature="docComment;method#pow#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#pow#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#abs#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#90031#90032#0" expanded="false" />
+            <element signature="e#90086#90087#0" expanded="false" />
+            <element signature="docComment;method#abs#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#90547#90548#0" expanded="false" />
+            <element signature="e#90608#90609#0" expanded="false" />
+            <element signature="docComment;method#negate#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#negate#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#negate#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#91445#91446#0" expanded="false" />
+            <element signature="e#91485#91486#0" expanded="false" />
+            <element signature="docComment;method#plus#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#91887#91888#0" expanded="false" />
+            <element signature="e#91914#91915#0" expanded="false" />
+            <element signature="docComment;method#plus#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#plus#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#signum#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#signum#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#scale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#93495#93496#0" expanded="false" />
+            <element signature="e#93523#93524#0" expanded="false" />
+            <element signature="docComment;method#precision#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#precision#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#unscaledValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#94467#94468#0" expanded="false" />
+            <element signature="e#94505#94506#0" expanded="false" />
+            <element signature="docComment;field#ROUND_UP#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_DOWN#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_CEILING#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_FLOOR#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_HALF_UP#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_HALF_DOWN#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_HALF_EVEN#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#ROUND_UNNECESSARY#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#round#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#98207#98208#0" expanded="false" />
+            <element signature="e#98238#98239#0" expanded="false" />
+            <element signature="docComment;method#setScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#setScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#setScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#setScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="e#102915#102957#0" expanded="false" />
+            <element signature="e#103779#103821#0" expanded="false" />
+            <element signature="docComment;method#setScale#2;class#BigDecimal#0" expanded="false" />
+            <element signature="e#106317#106318#0" expanded="false" />
+            <element signature="e#106377#106378#0" expanded="false" />
+            <element signature="docComment;method#movePointLeft#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#movePointLeft#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#movePointRight#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#movePointRight#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#scaleByPowerOfTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#scaleByPowerOfTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#stripTrailingZeros#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#stripTrailingZeros#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#compareTo#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareTo#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#compareMagnitude#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareMagnitude#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#113133#113145#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#equals#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#min#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#115713#115714#0" expanded="false" />
+            <element signature="e#115770#115771#0" expanded="false" />
+            <element signature="docComment;method#max#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#116291#116292#0" expanded="false" />
+            <element signature="e#116348#116349#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#hashCode#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#toString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#toEngineeringString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#123496#123497#0" expanded="false" />
+            <element signature="e#123537#123538#0" expanded="false" />
+            <element signature="docComment;method#toPlainString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#toPlainString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#getValueString#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#toBigInteger#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#toBigInteger#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#toBigIntegerExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#toBigIntegerExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#longValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#longValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#130481#130544#0" expanded="false" />
+            <element signature="class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#LONGMIN#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#LONGMAX#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#check#0;class#LongOverflow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#intValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#intValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#intValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#intValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#shortValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#shortValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#byteValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#byteValueExact#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#floatValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#floatValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#136138#136169#0" expanded="false" />
+            <element signature="docComment;method#doubleValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doubleValue#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#138008#138039#0" expanded="false" />
+            <element signature="docComment;field#double10pow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;field#float10pow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#ulp#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#139900#139901#0" expanded="false" />
+            <element signature="e#139961#139962#0" expanded="false" />
+            <element signature="n#!!doc;n#StringBuilderHelper#0;n#BigDecimal#0" expanded="false" />
+            <element signature="class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#StringBuilderHelper#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#getStringBuilder#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#141074#141075#0" expanded="false" />
+            <element signature="e#141117#141118#0" expanded="false" />
+            <element signature="docComment;method#putIntCompact#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#putIntCompact#0;class#StringBuilderHelper#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#141674#141743#0" expanded="false" />
+            <element signature="docComment;method#layoutChars#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#layoutChars#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#145665#145727#0" expanded="false" />
+            <element signature="docComment;method#bigTenToThe#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigTenToThe#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#expandBigIntegerTenPowers#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#expandBigIntegerTenPowers#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#150106#150173#0" expanded="false" />
+            <element signature="e#150581#150613#0" expanded="false" />
+            <element signature="docComment;method#longMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#bigMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigMultiplyPowerTen#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#inflated#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#inflated#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#matchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#matchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="initializer##0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#setIntCompactVolatile#0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#setIntValVolatile#0;class#UnsafeHolder#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#readObject#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#writeObject#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#longDigitLength#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longDigitLength#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#bigDigitLength#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigDigitLength#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#checkScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#checkScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#compactValFor#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compactValFor#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longCompareMagnitude#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#saturateLong#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#print#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#audit#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#audit#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#checkScaleNonZero#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#checkScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#checkScale#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#doRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doRound#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doRound#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRoundByTenPow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#commonNeedIncrement#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#commonNeedIncrement#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#needIncrement#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#needIncrement#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#3;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#needIncrement#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#needIncrement#1;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#4;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideAndRound#5;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound#5;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#needIncrement#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#needIncrement#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#createAndStripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#createAndStripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#createAndStripZerosToMatchScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#createAndStripZerosToMatchScale#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#stripZerosToMatchScale#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#2;class#BigDecimal#0" expanded="false" />
+            <element signature="e#184149#184206#0" expanded="false" />
+            <element signature="method#add#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#5;class#BigDecimal#0" expanded="false" />
+            <element signature="method#add#6;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigMultiplyPowerTen#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#bigMultiplyPowerTen#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divideSmallFastPath#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideSmallFastPath#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#191026#191052#0" expanded="false" />
+            <element signature="docComment;method#divide#6;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#6;class#BigDecimal#0" expanded="false" />
+            <element signature="e#193126#193196#0" expanded="false" />
+            <element signature="docComment;method#divide#7;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#7;class#BigDecimal#0" expanded="false" />
+            <element signature="e#195610#195680#0" expanded="false" />
+            <element signature="docComment;method#divide#8;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#8;class#BigDecimal#0" expanded="false" />
+            <element signature="e#197769#197839#0" expanded="false" />
+            <element signature="docComment;method#divide#9;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#9;class#BigDecimal#0" expanded="false" />
+            <element signature="e#199435#199505#0" expanded="false" />
+            <element signature="method#multiplyDivideAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divideAndRound128#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#204019#204066#0" expanded="false" />
+            <element signature="method#roundedTenPower#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#scaledTenPow#0;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#divRemNegativeLong#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divRemNegativeLong#0;class#BigDecimal#0" expanded="false" />
+            <element signature="e#207598#207599#0" expanded="false" />
+            <element signature="e#207632#207633#0" expanded="false" />
+            <element signature="method#mulsub#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#unsignedLongCompare#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#unsignedLongCompareEq#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareMagnitudeNormalized#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareMagnitudeNormalized#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#compareMagnitudeNormalized#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#2;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#3;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#4;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiply#5;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#multiplyAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiplyAndRound#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiplyAndRound#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#multiplyAndRound#2;class#BigDecimal#0" expanded="false" />
+            <element signature="docComment;method#doRound128#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#doRound128#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#precision#1;class#BigDecimal#0" expanded="false" />
+            <element signature="method#longLongCompareMagnitude#0;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#10;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#11;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#12;class#BigDecimal#0" expanded="false" />
+            <element signature="method#divide#13;class#BigDecimal#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/text/NumberFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1938" max-vertical-offset="4446">
+          <caret line="289" column="44" selection-start-line="289" selection-start-column="38" selection-end-line="289" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#48080#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="docComment;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#INTEGER_FIELD#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#FRACTION_FIELD#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#NumberFormat#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#NumberFormat#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#format#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#format#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#parseObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#11318#11319#0" expanded="false" />
+            <element signature="e#11359#11360#0" expanded="false" />
+            <element signature="docComment;method#format#1;class#NumberFormat#0" expanded="false" />
+            <element signature="method#format#1;class#NumberFormat#0" expanded="false" />
+            <element signature="method#fastFormat#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#format#2;class#NumberFormat#0" expanded="false" />
+            <element signature="method#format#2;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#format#3;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#format#4;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#parse#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#parse#1;class#NumberFormat#0" expanded="false" />
+            <element signature="method#parse#1;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#isParseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#16253#16254#0" expanded="false" />
+            <element signature="e#16292#16293#0" expanded="false" />
+            <element signature="docComment;method#setParseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#16594#16595#0" expanded="false" />
+            <element signature="e#16634#16635#0" expanded="false" />
+            <element signature="docComment;method#getInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#17589#17590#0" expanded="false" />
+            <element signature="e#17646#17647#0" expanded="false" />
+            <element signature="docComment;method#getNumberInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getNumberInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getNumberInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#18615#18616#0" expanded="false" />
+            <element signature="e#18672#18673#0" expanded="false" />
+            <element signature="docComment;method#getIntegerInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getIntegerInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getIntegerInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#20342#20343#0" expanded="false" />
+            <element signature="e#20400#20401#0" expanded="false" />
+            <element signature="docComment;method#getCurrencyInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getCurrencyInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getCurrencyInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#21309#21310#0" expanded="false" />
+            <element signature="e#21368#21369#0" expanded="false" />
+            <element signature="docComment;method#getPercentInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getPercentInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getPercentInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="e#22280#22281#0" expanded="false" />
+            <element signature="e#22338#22339#0" expanded="false" />
+            <element signature="docComment;method#getScientificInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getScientificInstance#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getScientificInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getScientificInstance#1;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getAvailableLocales#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getAvailableLocales#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#hashCode#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#equals#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#clone#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#isGroupingUsed#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#25287#25288#0" expanded="false" />
+            <element signature="e#25322#25323#0" expanded="false" />
+            <element signature="docComment;method#setGroupingUsed#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#25594#25595#0" expanded="false" />
+            <element signature="e#25633#25634#0" expanded="false" />
+            <element signature="docComment;method#getMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#25876#25877#0" expanded="false" />
+            <element signature="e#25919#25920#0" expanded="false" />
+            <element signature="docComment;method#setMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#setMaximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#27030#27031#0" expanded="false" />
+            <element signature="e#27073#27074#0" expanded="false" />
+            <element signature="docComment;method#setMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#setMinimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#28182#28183#0" expanded="false" />
+            <element signature="e#28226#28227#0" expanded="false" />
+            <element signature="docComment;method#setMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#setMaximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#29354#29355#0" expanded="false" />
+            <element signature="e#29398#29399#0" expanded="false" />
+            <element signature="docComment;method#setMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#setMinimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#getCurrency#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#30981#30982#0" expanded="false" />
+            <element signature="e#31038#31039#0" expanded="false" />
+            <element signature="docComment;method#setCurrency#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#31693#31694#0" expanded="false" />
+            <element signature="e#31750#31751#0" expanded="false" />
+            <element signature="docComment;method#getRoundingMode#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#32368#32369#0" expanded="false" />
+            <element signature="e#32425#32426#0" expanded="false" />
+            <element signature="docComment;method#setRoundingMode#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#33119#33120#0" expanded="false" />
+            <element signature="e#33176#33177#0" expanded="false" />
+            <element signature="method#getInstance#2;class#NumberFormat#0" expanded="false" />
+            <element signature="method#getInstance#3;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#readObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#writeObject#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#groupingUsed#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#maxIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#minIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#maxFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#minFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#parseIntegerOnly#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#maximumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#minimumIntegerDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#maximumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#minimumFractionDigits#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#serialVersionOnStream#0;class#NumberFormat#0" expanded="false" />
+            <element signature="e#44512#44514#0" expanded="false" />
+            <element signature="docComment;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#Field#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#Field#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;method#readResolve#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="method#readResolve#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#INTEGER#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#FRACTION#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#EXPONENT#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#DECIMAL_SEPARATOR#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#SIGN#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#GROUPING_SEPARATOR#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#EXPONENT_SYMBOL#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#PERCENT#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#PERMILLE#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#CURRENCY#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+            <element signature="docComment;field#EXPONENT_SIGN#0;class#Field#0;class#NumberFormat#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
@@ -1807,43 +2278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="703">
           <caret line="220" column="31" selection-start-line="220" selection-start-column="31" selection-end-line="220" selection-end-column="31" />
-          <folding>
-            <element signature="n#modules#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#7;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#8;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#9;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#10;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#11;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#12;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#13;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#14;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#15;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#16;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#17;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#18;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#19;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#20;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#21;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#22;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#23;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#24;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#25;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#26;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#27;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#28;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#29;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#30;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#31;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1893,43 +2327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5248619" vertical-offset="0" max-vertical-offset="905">
           <caret line="220" column="31" selection-start-line="220" selection-start-column="31" selection-end-line="220" selection-end-column="31" />
-          <folding>
-            <element signature="n#modules#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#7;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#8;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#9;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#10;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#11;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#12;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#13;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#14;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#15;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#16;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#17;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#18;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#19;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#20;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#21;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#22;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#23;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#24;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#25;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#26;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#27;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#28;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#29;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#30;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#31;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2475,9 +2872,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31491712" vertical-offset="0" max-vertical-offset="905">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/src/main/java/com/yao/credit/controller/CreditController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="297" max-vertical-offset="1995">
+          <caret line="38" column="69" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+          <folding>
+            <element signature="e#405#416#0" expanded="false" />
+            <element signature="method#list#0;class#CreditController#0" expanded="false" />
+            <element signature="method#deal#0;class#CreditController#0" expanded="false" />
+            <element signature="docComment;method#getRemoteHost#0;class#CreditController#0" expanded="false" />
+            <element signature="method#getRemoteHost#0;class#CreditController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/src/main/java/com/yao/credit/dao/CreditMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/src/main/java/com/yao/credit/mapping/CreditMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6683417" vertical-offset="399" max-vertical-offset="6726">
+          <caret line="42" column="80" selection-start-line="42" selection-start-column="80" selection-end-line="42" selection-end-column="80" />
+          <folding>
+            <marker date="1458099916443" expanded="true" signature="-1:-1" placeholder="select from ..credit..." />
+            <marker date="1458099916443" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1458099916443" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1458099916443" expanded="true" signature="-1:-1" placeholder="select UUID(..." />
+            <marker date="1458099916443" expanded="true" signature="-1:-1" placeholder="update credi..." />
+            <marker date="1458099916443" expanded="true" signature="-1:-1" placeholder="update credi..." />
+            <marker date="1458099916443" expanded="true" signature="-1:-1" placeholder="update credi..." />
+            <marker date="1458099916443" expanded="true" signature="-1:-1" placeholder="select from ..credit..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web_news_fzsfxd:war">
+    <output-path>$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/target</output-path>
+    <root id="archive" name="web_news_fzsfxd.war">
+      <element id="artifact" artifact-name="web_news_fzsfxd:war exploded" />
+    </root>
+  </artifact>
+</component>
