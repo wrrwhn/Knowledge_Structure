@@ -22,10 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="BlogService" />
-        <module name="spark" />
         <module name="Utils.for.work" />
-        <module name="web_news_fzsfxd" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">

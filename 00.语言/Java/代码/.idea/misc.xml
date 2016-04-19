@@ -13,9 +13,6 @@
       <list>
         <option value="$PROJECT_DIR$/java-study/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../web_news_fzsfxd/core/pom.xml" />
-        <option value="$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd/pom.xml" />
-        <option value="$PROJECT_DIR$/../../../../Spark/pom.xml" />
-        <option value="$PROJECT_DIR$/../../../../BlogService_SparkExample/pom.xml" />
       </list>
     </option>
   </component>

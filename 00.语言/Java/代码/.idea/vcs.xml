@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="" />
-    <mapping directory="$PROJECT_DIR$/../../../../BlogService_SparkExample" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../../../Spark" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work" vcs="Git" />
   </component>
 </project>
