@@ -86,9 +86,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="1463">
               <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,9 +96,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,8 +104,8 @@
       <file leaf-file-name="HashMapTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/HashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3569061" vertical-offset="0" max-vertical-offset="905">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3359116" vertical-offset="0" max-vertical-offset="905">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,8 +119,6 @@
             <state vertical-scroll-proportion="0.0" vertical-offset="3013" max-vertical-offset="3952">
               <caret line="919" column="36" selection-start-line="919" selection-start-column="30" selection-end-line="919" selection-end-column="36" />
               <folding>
-                <element signature="e#0#40012#0" expanded="false" />
-                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;field#textOut#0;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#requireNonNull#0;class#PrintStream#0" expanded="false" />
@@ -135,8 +129,6 @@
                 <element signature="method#PrintStream#1;class#PrintStream#0" expanded="false" />
                 <element signature="method#PrintStream#2;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#PrintStream#3;class#PrintStream#0" expanded="false" />
-                <element signature="e#4246#4247#0" expanded="false" />
-                <element signature="e#4278#4279#0" expanded="false" />
                 <element signature="docComment;method#PrintStream#4;class#PrintStream#0" expanded="false" />
                 <element signature="method#PrintStream#4;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#PrintStream#5;class#PrintStream#0" expanded="false" />
@@ -158,11 +150,7 @@
                 <element signature="docComment;method#checkError#0;class#PrintStream#0" expanded="false" />
                 <element signature="method#checkError#0;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#setError#0;class#PrintStream#0" expanded="false" />
-                <element signature="e#14985#14986#0" expanded="false" />
-                <element signature="e#15015#15016#0" expanded="false" />
                 <element signature="docComment;method#clearError#0;class#PrintStream#0" expanded="false" />
-                <element signature="e#15343#15344#0" expanded="false" />
-                <element signature="e#15374#15375#0" expanded="false" />
                 <element signature="docComment;method#write#0;class#PrintStream#0" expanded="false" />
                 <element signature="method#write#0;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#write#1;class#PrintStream#0" expanded="false" />
@@ -171,34 +159,16 @@
                 <element signature="method#write#3;class#PrintStream#0" expanded="false" />
                 <element signature="method#newLine#0;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#print#0;class#PrintStream#0" expanded="false" />
-                <element signature="e#19907#19908#0" expanded="false" />
-                <element signature="e#19950#19951#0" expanded="false" />
                 <element signature="docComment;method#print#1;class#PrintStream#0" expanded="false" />
-                <element signature="e#20319#20320#0" expanded="false" />
-                <element signature="e#20359#20360#0" expanded="false" />
                 <element signature="docComment;method#print#2;class#PrintStream#0" expanded="false" />
-                <element signature="e#20831#20832#0" expanded="false" />
-                <element signature="e#20871#20872#0" expanded="false" />
                 <element signature="docComment;method#print#3;class#PrintStream#0" expanded="false" />
-                <element signature="e#21348#21349#0" expanded="false" />
-                <element signature="e#21388#21389#0" expanded="false" />
                 <element signature="docComment;method#print#4;class#PrintStream#0" expanded="false" />
-                <element signature="e#21879#21880#0" expanded="false" />
-                <element signature="e#21919#21920#0" expanded="false" />
                 <element signature="docComment;method#print#5;class#PrintStream#0" expanded="false" />
-                <element signature="e#22432#22433#0" expanded="false" />
-                <element signature="e#22472#22473#0" expanded="false" />
                 <element signature="docComment;method#print#6;class#PrintStream#0" expanded="false" />
-                <element signature="e#22924#22925#0" expanded="false" />
-                <element signature="e#22948#22949#0" expanded="false" />
                 <element signature="docComment;method#print#7;class#PrintStream#0" expanded="false" />
                 <element signature="method#print#7;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#print#8;class#PrintStream#0" expanded="false" />
-                <element signature="e#23994#23995#0" expanded="false" />
-                <element signature="e#24036#24037#0" expanded="false" />
                 <element signature="docComment;method#println#0;class#PrintStream#0" expanded="false" />
-                <element signature="e#24380#24381#0" expanded="false" />
-                <element signature="e#24405#24406#0" expanded="false" />
                 <element signature="docComment;method#println#1;class#PrintStream#0" expanded="false" />
                 <element signature="method#println#1;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#println#2;class#PrintStream#0" expanded="false" />
@@ -217,11 +187,7 @@
                 <element signature="docComment;method#println#9;class#PrintStream#0" expanded="false" />
                 <element signature="method#println#9;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#printf#0;class#PrintStream#0" expanded="false" />
-                <element signature="e#29974#29975#0" expanded="false" />
-                <element signature="e#30017#30018#0" expanded="false" />
                 <element signature="docComment;method#printf#1;class#PrintStream#0" expanded="false" />
-                <element signature="e#32148#32149#0" expanded="false" />
-                <element signature="e#32194#32195#0" expanded="false" />
                 <element signature="docComment;method#format#0;class#PrintStream#0" expanded="false" />
                 <element signature="method#format#0;class#PrintStream#0" expanded="false" />
                 <element signature="docComment;method#format#1;class#PrintStream#0" expanded="false" />
@@ -243,8 +209,6 @@
             <state vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="6783">
               <caret line="483" column="25" selection-start-line="483" selection-start-column="19" selection-end-line="483" selection-end-column="25" />
               <folding>
-                <element signature="e#0#136193#0" expanded="false" />
-                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#Locale#0" expanded="false" />
                 <element signature="docComment;field#ENGLISH#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;field#FRENCH#0;class#Locale#0" expanded="false" />
@@ -277,11 +241,7 @@
                 <element signature="docComment;method#Locale#1;class#Locale#0" expanded="false" />
                 <element signature="method#Locale#1;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#Locale#2;class#Locale#0" expanded="false" />
-                <element signature="e#28232#28233#0" expanded="false" />
-                <element signature="e#28275#28276#0" expanded="false" />
                 <element signature="docComment;method#Locale#3;class#Locale#0" expanded="false" />
-                <element signature="e#29246#29247#0" expanded="false" />
-                <element signature="e#29284#29285#0" expanded="false" />
                 <element signature="docComment;method#createConstant#0;class#Locale#0" expanded="false" />
                 <element signature="method#createConstant#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getInstance#0;class#Locale#0" expanded="false" />
@@ -290,13 +250,9 @@
                 <element signature="method#getInstance#2;class#Locale#0" expanded="false" />
                 <element signature="class#Cache#0;class#Locale#0" expanded="false" />
                 <element signature="method#Cache#0;class#Cache#0;class#Locale#0" expanded="false" />
-                <element signature="e#31414#31415#0" expanded="false" />
-                <element signature="e#31475#31476#0" expanded="false" />
                 <element signature="class#LocaleKey#0;class#Locale#0" expanded="false" />
                 <element signature="method#LocaleKey#0;class#LocaleKey#0;class#Locale#0" expanded="false" />
                 <element signature="method#equals#0;class#LocaleKey#0;class#Locale#0" expanded="false" />
-                <element signature="e#32587#32588#0" expanded="false" />
-                <element signature="e#32622#32623#0" expanded="false" />
                 <element signature="docComment;method#getDefault#0;class#Locale#0" expanded="false" />
                 <element signature="method#getDefault#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getDefault#1;class#Locale#0" expanded="false" />
@@ -308,31 +264,17 @@
                 <element signature="docComment;method#setDefault#1;class#Locale#0" expanded="false" />
                 <element signature="method#setDefault#1;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getAvailableLocales#0;class#Locale#0" expanded="false" />
-                <element signature="e#41035#41036#0" expanded="false" />
-                <element signature="e#41108#41109#0" expanded="false" />
                 <element signature="docComment;method#getISOCountries#0;class#Locale#0" expanded="false" />
                 <element signature="method#getISOCountries#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getISOLanguages#0;class#Locale#0" expanded="false" />
                 <element signature="method#getISOLanguages#0;class#Locale#0" expanded="false" />
                 <element signature="method#getISO2Table#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getLanguage#0;class#Locale#0" expanded="false" />
-                <element signature="e#44030#44031#0" expanded="false" />
-                <element signature="e#44077#44078#0" expanded="false" />
                 <element signature="docComment;method#getScript#0;class#Locale#0" expanded="false" />
-                <element signature="e#44482#44483#0" expanded="false" />
-                <element signature="e#44527#44528#0" expanded="false" />
                 <element signature="docComment;method#getCountry#0;class#Locale#0" expanded="false" />
-                <element signature="e#44870#44871#0" expanded="false" />
-                <element signature="e#44915#44916#0" expanded="false" />
                 <element signature="docComment;method#getVariant#0;class#Locale#0" expanded="false" />
-                <element signature="e#45125#45126#0" expanded="false" />
-                <element signature="e#45171#45172#0" expanded="false" />
                 <element signature="docComment;method#hasExtensions#0;class#Locale#0" expanded="false" />
-                <element signature="e#45429#45430#0" expanded="false" />
-                <element signature="e#45476#45477#0" expanded="false" />
                 <element signature="docComment;method#stripExtensions#0;class#Locale#0" expanded="false" />
-                <element signature="e#45871#45872#0" expanded="false" />
-                <element signature="e#45955#45956#0" expanded="false" />
                 <element signature="docComment;method#getExtension#0;class#Locale#0" expanded="false" />
                 <element signature="method#getExtension#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getExtensionKeys#0;class#Locale#0" expanded="false" />
@@ -344,11 +286,7 @@
                 <element signature="docComment;method#getUnicodeLocaleKeys#0;class#Locale#0" expanded="false" />
                 <element signature="method#getUnicodeLocaleKeys#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getBaseLocale#0;class#Locale#0" expanded="false" />
-                <element signature="e#49560#49561#0" expanded="false" />
-                <element signature="e#49593#49594#0" expanded="false" />
                 <element signature="docComment;method#getLocaleExtensions#0;class#Locale#0" expanded="false" />
-                <element signature="e#49866#49867#0" expanded="false" />
-                <element signature="e#49907#49908#0" expanded="false" />
                 <element signature="docComment;method#toString#0;class#Locale#0" expanded="false" />
                 <element signature="method#toString#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#toLanguageTag#0;class#Locale#0" expanded="false" />
@@ -361,30 +299,20 @@
                 <element signature="method#getISO3Country#0;class#Locale#0" expanded="false" />
                 <element signature="method#getISO3Code#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getDisplayLanguage#0;class#Locale#0" expanded="false" />
-                <element signature="e#67883#67884#0" expanded="false" />
-                <element signature="e#67954#67955#0" expanded="false" />
                 <element signature="docComment;method#getDisplayLanguage#1;class#Locale#0" expanded="false" />
                 <element signature="method#getDisplayLanguage#1;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getDisplayScript#0;class#Locale#0" expanded="false" />
-                <element signature="e#69600#69601#0" expanded="false" />
-                <element signature="e#69669#69670#0" expanded="false" />
                 <element signature="docComment;method#getDisplayScript#1;class#Locale#0" expanded="false" />
                 <element signature="method#getDisplayScript#1;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getDisplayCountry#0;class#Locale#0" expanded="false" />
-                <element signature="e#71440#71441#0" expanded="false" />
-                <element signature="e#71510#71511#0" expanded="false" />
                 <element signature="docComment;method#getDisplayCountry#1;class#Locale#0" expanded="false" />
                 <element signature="method#getDisplayCountry#1;class#Locale#0" expanded="false" />
                 <element signature="method#getDisplayString#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getDisplayVariant#0;class#Locale#0" expanded="false" />
-                <element signature="e#73785#73786#0" expanded="false" />
-                <element signature="e#73855#73856#0" expanded="false" />
                 <element signature="docComment;method#getDisplayVariant#1;class#Locale#0" expanded="false" />
                 <element signature="method#getDisplayVariant#1;class#Locale#0" expanded="false" />
                 <element signature="e#74675#74735#0" expanded="false" />
                 <element signature="docComment;method#getDisplayName#0;class#Locale#0" expanded="false" />
-                <element signature="e#75824#75825#0" expanded="false" />
-                <element signature="e#75891#75892#0" expanded="false" />
                 <element signature="docComment;method#getDisplayName#1;class#Locale#0" expanded="false" />
                 <element signature="method#getDisplayName#1;class#Locale#0" expanded="false" />
                 <element signature="e#77579#77647#0" expanded="false" />
@@ -429,8 +357,6 @@
                 <element signature="docComment;class#Builder#0;class#Locale#0" expanded="false" />
                 <element signature="class#Builder#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#Builder#0;class#Builder#0;class#Locale#0" expanded="false" />
-                <element signature="e#97607#97608#0" expanded="false" />
-                <element signature="e#97674#97675#0" expanded="false" />
                 <element signature="docComment;method#setLocale#0;class#Builder#0;class#Locale#0" expanded="false" />
                 <element signature="method#setLocale#0;class#Builder#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#setLanguageTag#0;class#Builder#0;class#Locale#0" expanded="false" />
@@ -469,20 +395,12 @@
                 <element signature="docComment;field#MAX_WEIGHT#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;field#MIN_WEIGHT#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#LanguageRange#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
-                <element signature="e#117945#117946#0" expanded="false" />
-                <element signature="e#117992#117993#0" expanded="false" />
                 <element signature="docComment;method#LanguageRange#1;class#LanguageRange#0;class#Locale#0" expanded="false" />
                 <element signature="method#LanguageRange#1;class#LanguageRange#0;class#Locale#0" expanded="false" />
                 <element signature="method#isSubtagIllFormed#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#getRange#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
-                <element signature="e#120744#120745#0" expanded="false" />
-                <element signature="e#120780#120781#0" expanded="false" />
                 <element signature="docComment;method#getWeight#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
-                <element signature="e#120950#120951#0" expanded="false" />
-                <element signature="e#120987#120988#0" expanded="false" />
                 <element signature="docComment;method#parse#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
-                <element signature="e#124586#124587#0" expanded="false" />
-                <element signature="e#124644#124645#0" expanded="false" />
                 <element signature="docComment;method#parse#1;class#LanguageRange#0;class#Locale#0" expanded="false" />
                 <element signature="method#parse#1;class#LanguageRange#0;class#Locale#0" expanded="false" />
                 <element signature="docComment;method#mapEquivalents#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
@@ -514,8 +432,6 @@
             <state vertical-scroll-proportion="0.0" vertical-offset="1892" max-vertical-offset="2565">
               <caret line="199" column="2" selection-start-line="199" selection-start-column="2" selection-end-line="199" selection-end-column="2" />
               <folding>
-                <element signature="e#0#27311#0" expanded="false" />
-                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#Gson#0" expanded="false" />
                 <element signature="e#2933#3022#0" expanded="false" />
                 <element signature="docComment;field#serializers#0;class#Gson#0" expanded="false" />
@@ -524,7 +440,6 @@
                 <element signature="method#Gson#0;class#Gson#0" expanded="false" />
                 <element signature="method#Gson#1;class#Gson#0" expanded="false" />
                 <element signature="method#createExclusionStrategy#0;class#Gson#0" expanded="false" />
-                <element signature="e#8724#8743#0" expanded="false" />
                 <element signature="docComment;method#toJsonTree#0;class#Gson#0" expanded="false" />
                 <element signature="method#toJsonTree#0;class#Gson#0" expanded="false" />
                 <element signature="method#toJsonTree#1;class#Gson#0" expanded="false" />
@@ -582,8 +497,6 @@
             <state vertical-scroll-proportion="0.0" vertical-offset="1151" max-vertical-offset="2660">
               <caret line="465" column="7" selection-start-line="465" selection-start-column="7" selection-end-line="465" selection-end-column="7" />
               <folding>
-                <element signature="e#0#26069#0" expanded="false" />
-                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#ZipOutputStream#0" expanded="false" />
                 <element signature="docComment;field#inhibitZip64#0;class#ZipOutputStream#0" expanded="false" />
                 <element signature="class#XEntry#0;class#ZipOutputStream#0" expanded="false" />
@@ -594,8 +507,6 @@
                 <element signature="docComment;field#STORED#0;class#ZipOutputStream#0" expanded="false" />
                 <element signature="docComment;field#DEFLATED#0;class#ZipOutputStream#0" expanded="false" />
                 <element signature="docComment;method#ZipOutputStream#0;class#ZipOutputStream#0" expanded="false" />
-                <element signature="e#3075#3076#0" expanded="false" />
-                <element signature="e#3124#3125#0" expanded="false" />
                 <element signature="docComment;method#ZipOutputStream#1;class#ZipOutputStream#0" expanded="false" />
                 <element signature="method#ZipOutputStream#1;class#ZipOutputStream#0" expanded="false" />
                 <element signature="docComment;method#setComment#0;class#ZipOutputStream#0" expanded="false" />
@@ -603,8 +514,6 @@
                 <element signature="docComment;method#setMethod#0;class#ZipOutputStream#0" expanded="false" />
                 <element signature="method#setMethod#0;class#ZipOutputStream#0" expanded="false" />
                 <element signature="docComment;method#setLevel#0;class#ZipOutputStream#0" expanded="false" />
-                <element signature="e#5144#5145#0" expanded="false" />
-                <element signature="e#5179#5180#0" expanded="false" />
                 <element signature="docComment;method#putNextEntry#0;class#ZipOutputStream#0" expanded="false" />
                 <element signature="method#putNextEntry#0;class#ZipOutputStream#0" expanded="false" />
                 <element signature="e#5937#5991#0" expanded="false" />
@@ -641,34 +550,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="3203" max-vertical-offset="41610">
               <caret line="214" column="56" selection-start-line="214" selection-start-column="56" selection-end-line="214" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#95358#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#8262#8263#0" expanded="false" />
-                <element signature="e#8297#8298#0" expanded="false" />
-                <element signature="e#21135#21136#0" expanded="false" />
-                <element signature="e#21162#21163#0" expanded="false" />
-                <element signature="e#21752#21753#0" expanded="false" />
-                <element signature="e#21794#21795#0" expanded="false" />
-                <element signature="e#23018#23019#0" expanded="false" />
-                <element signature="e#23057#23058#0" expanded="false" />
-                <element signature="e#64751#64752#0" expanded="false" />
-                <element signature="e#64801#64802#0" expanded="false" />
-                <element signature="e#68391#68392#0" expanded="false" />
-                <element signature="e#68441#68442#0" expanded="false" />
-                <element signature="e#72099#72100#0" expanded="false" />
-                <element signature="e#72153#72154#0" expanded="false" />
-                <element signature="e#75713#75714#0" expanded="false" />
-                <element signature="e#75750#75751#0" expanded="false" />
-                <element signature="e#80745#80746#0" expanded="false" />
-                <element signature="e#80782#80783#0" expanded="false" />
-                <element signature="e#89537#89538#0" expanded="false" />
-                <element signature="e#89586#89587#0" expanded="false" />
-                <element signature="e#91257#91258#0" expanded="false" />
-                <element signature="e#91297#91298#0" expanded="false" />
-                <element signature="e#91558#91559#0" expanded="false" />
-                <element signature="e#91590#91591#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -678,22 +560,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="9256" max-vertical-offset="11723">
               <caret line="538" column="17" selection-start-line="538" selection-start-column="11" selection-end-line="538" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#22192#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#945#946#0" expanded="false" />
-                <element signature="e#993#994#0" expanded="false" />
-                <element signature="e#1033#1034#0" expanded="false" />
-                <element signature="e#1112#1113#0" expanded="false" />
-                <element signature="e#1352#1353#0" expanded="false" />
-                <element signature="e#1380#1381#0" expanded="false" />
-                <element signature="e#1432#1433#0" expanded="false" />
-                <element signature="e#1464#1465#0" expanded="false" />
-                <element signature="e#9056#9057#0" expanded="false" />
-                <element signature="e#9091#9092#0" expanded="false" />
-                <element signature="e#21833#21834#0" expanded="false" />
-                <element signature="e#21902#21903#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1397,15 +1264,17 @@
       <workItem from="1460684316624" duration="1616000" />
       <workItem from="1460944726404" duration="3020000" />
       <workItem from="1461031061815" duration="922000" />
+      <workItem from="1461120755327" duration="1264000" />
+      <workItem from="1461203856510" duration="179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136696000" />
+    <option name="totallyTimeSpent" value="138139000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1421,7 +1290,7 @@
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1913646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1913646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1751,10 +1620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="70512" max-vertical-offset="95532">
           <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="false" />
-            <element signature="e#177054#177055#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1805,8 +1670,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1151" max-vertical-offset="2660">
           <caret line="465" column="7" selection-start-line="465" selection-start-column="7" selection-end-line="465" selection-end-column="7" />
           <folding>
-            <element signature="e#0#26069#0" expanded="false" />
-            <element signature="imports" expanded="false" />
             <element signature="docComment;class#ZipOutputStream#0" expanded="false" />
             <element signature="docComment;field#inhibitZip64#0;class#ZipOutputStream#0" expanded="false" />
             <element signature="class#XEntry#0;class#ZipOutputStream#0" expanded="false" />
@@ -1817,8 +1680,6 @@
             <element signature="docComment;field#STORED#0;class#ZipOutputStream#0" expanded="false" />
             <element signature="docComment;field#DEFLATED#0;class#ZipOutputStream#0" expanded="false" />
             <element signature="docComment;method#ZipOutputStream#0;class#ZipOutputStream#0" expanded="false" />
-            <element signature="e#3075#3076#0" expanded="false" />
-            <element signature="e#3124#3125#0" expanded="false" />
             <element signature="docComment;method#ZipOutputStream#1;class#ZipOutputStream#0" expanded="false" />
             <element signature="method#ZipOutputStream#1;class#ZipOutputStream#0" expanded="false" />
             <element signature="docComment;method#setComment#0;class#ZipOutputStream#0" expanded="false" />
@@ -1826,8 +1687,6 @@
             <element signature="docComment;method#setMethod#0;class#ZipOutputStream#0" expanded="false" />
             <element signature="method#setMethod#0;class#ZipOutputStream#0" expanded="false" />
             <element signature="docComment;method#setLevel#0;class#ZipOutputStream#0" expanded="false" />
-            <element signature="e#5144#5145#0" expanded="false" />
-            <element signature="e#5179#5180#0" expanded="false" />
             <element signature="docComment;method#putNextEntry#0;class#ZipOutputStream#0" expanded="false" />
             <element signature="method#putNextEntry#0;class#ZipOutputStream#0" expanded="false" />
             <element signature="e#5937#5991#0" expanded="false" />
@@ -1862,34 +1721,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3203" max-vertical-offset="41610">
           <caret line="214" column="56" selection-start-line="214" selection-start-column="56" selection-end-line="214" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#95358#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#8262#8263#0" expanded="false" />
-            <element signature="e#8297#8298#0" expanded="false" />
-            <element signature="e#21135#21136#0" expanded="false" />
-            <element signature="e#21162#21163#0" expanded="false" />
-            <element signature="e#21752#21753#0" expanded="false" />
-            <element signature="e#21794#21795#0" expanded="false" />
-            <element signature="e#23018#23019#0" expanded="false" />
-            <element signature="e#23057#23058#0" expanded="false" />
-            <element signature="e#64751#64752#0" expanded="false" />
-            <element signature="e#64801#64802#0" expanded="false" />
-            <element signature="e#68391#68392#0" expanded="false" />
-            <element signature="e#68441#68442#0" expanded="false" />
-            <element signature="e#72099#72100#0" expanded="false" />
-            <element signature="e#72153#72154#0" expanded="false" />
-            <element signature="e#75713#75714#0" expanded="false" />
-            <element signature="e#75750#75751#0" expanded="false" />
-            <element signature="e#80745#80746#0" expanded="false" />
-            <element signature="e#80782#80783#0" expanded="false" />
-            <element signature="e#89537#89538#0" expanded="false" />
-            <element signature="e#89586#89587#0" expanded="false" />
-            <element signature="e#91257#91258#0" expanded="false" />
-            <element signature="e#91297#91298#0" expanded="false" />
-            <element signature="e#91558#91559#0" expanded="false" />
-            <element signature="e#91590#91591#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1904,22 +1736,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="9256" max-vertical-offset="11723">
           <caret line="538" column="17" selection-start-line="538" selection-start-column="11" selection-end-line="538" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#22192#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#945#946#0" expanded="false" />
-            <element signature="e#993#994#0" expanded="false" />
-            <element signature="e#1033#1034#0" expanded="false" />
-            <element signature="e#1112#1113#0" expanded="false" />
-            <element signature="e#1352#1353#0" expanded="false" />
-            <element signature="e#1380#1381#0" expanded="false" />
-            <element signature="e#1432#1433#0" expanded="false" />
-            <element signature="e#1464#1465#0" expanded="false" />
-            <element signature="e#9056#9057#0" expanded="false" />
-            <element signature="e#9091#9092#0" expanded="false" />
-            <element signature="e#21833#21834#0" expanded="false" />
-            <element signature="e#21902#21903#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1935,9 +1752,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="1691">
           <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1946,8 +1761,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1892" max-vertical-offset="2565">
           <caret line="199" column="2" selection-start-line="199" selection-start-column="2" selection-end-line="199" selection-end-column="2" />
           <folding>
-            <element signature="e#0#27311#0" expanded="false" />
-            <element signature="imports" expanded="false" />
             <element signature="docComment;class#Gson#0" expanded="false" />
             <element signature="e#2933#3022#0" expanded="false" />
             <element signature="docComment;field#serializers#0;class#Gson#0" expanded="false" />
@@ -1956,7 +1769,6 @@
             <element signature="method#Gson#0;class#Gson#0" expanded="false" />
             <element signature="method#Gson#1;class#Gson#0" expanded="false" />
             <element signature="method#createExclusionStrategy#0;class#Gson#0" expanded="false" />
-            <element signature="e#8724#8743#0" expanded="false" />
             <element signature="docComment;method#toJsonTree#0;class#Gson#0" expanded="false" />
             <element signature="method#toJsonTree#0;class#Gson#0" expanded="false" />
             <element signature="method#toJsonTree#1;class#Gson#0" expanded="false" />
@@ -2002,8 +1814,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="3013" max-vertical-offset="3952">
           <caret line="919" column="36" selection-start-line="919" selection-start-column="30" selection-end-line="919" selection-end-column="36" />
           <folding>
-            <element signature="e#0#40012#0" expanded="false" />
-            <element signature="imports" expanded="false" />
             <element signature="docComment;class#PrintStream#0" expanded="false" />
             <element signature="docComment;field#textOut#0;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#requireNonNull#0;class#PrintStream#0" expanded="false" />
@@ -2014,8 +1824,6 @@
             <element signature="method#PrintStream#1;class#PrintStream#0" expanded="false" />
             <element signature="method#PrintStream#2;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#PrintStream#3;class#PrintStream#0" expanded="false" />
-            <element signature="e#4246#4247#0" expanded="false" />
-            <element signature="e#4278#4279#0" expanded="false" />
             <element signature="docComment;method#PrintStream#4;class#PrintStream#0" expanded="false" />
             <element signature="method#PrintStream#4;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#PrintStream#5;class#PrintStream#0" expanded="false" />
@@ -2037,11 +1845,7 @@
             <element signature="docComment;method#checkError#0;class#PrintStream#0" expanded="false" />
             <element signature="method#checkError#0;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#setError#0;class#PrintStream#0" expanded="false" />
-            <element signature="e#14985#14986#0" expanded="false" />
-            <element signature="e#15015#15016#0" expanded="false" />
             <element signature="docComment;method#clearError#0;class#PrintStream#0" expanded="false" />
-            <element signature="e#15343#15344#0" expanded="false" />
-            <element signature="e#15374#15375#0" expanded="false" />
             <element signature="docComment;method#write#0;class#PrintStream#0" expanded="false" />
             <element signature="method#write#0;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#write#1;class#PrintStream#0" expanded="false" />
@@ -2050,34 +1854,16 @@
             <element signature="method#write#3;class#PrintStream#0" expanded="false" />
             <element signature="method#newLine#0;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#print#0;class#PrintStream#0" expanded="false" />
-            <element signature="e#19907#19908#0" expanded="false" />
-            <element signature="e#19950#19951#0" expanded="false" />
             <element signature="docComment;method#print#1;class#PrintStream#0" expanded="false" />
-            <element signature="e#20319#20320#0" expanded="false" />
-            <element signature="e#20359#20360#0" expanded="false" />
             <element signature="docComment;method#print#2;class#PrintStream#0" expanded="false" />
-            <element signature="e#20831#20832#0" expanded="false" />
-            <element signature="e#20871#20872#0" expanded="false" />
             <element signature="docComment;method#print#3;class#PrintStream#0" expanded="false" />
-            <element signature="e#21348#21349#0" expanded="false" />
-            <element signature="e#21388#21389#0" expanded="false" />
             <element signature="docComment;method#print#4;class#PrintStream#0" expanded="false" />
-            <element signature="e#21879#21880#0" expanded="false" />
-            <element signature="e#21919#21920#0" expanded="false" />
             <element signature="docComment;method#print#5;class#PrintStream#0" expanded="false" />
-            <element signature="e#22432#22433#0" expanded="false" />
-            <element signature="e#22472#22473#0" expanded="false" />
             <element signature="docComment;method#print#6;class#PrintStream#0" expanded="false" />
-            <element signature="e#22924#22925#0" expanded="false" />
-            <element signature="e#22948#22949#0" expanded="false" />
             <element signature="docComment;method#print#7;class#PrintStream#0" expanded="false" />
             <element signature="method#print#7;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#print#8;class#PrintStream#0" expanded="false" />
-            <element signature="e#23994#23995#0" expanded="false" />
-            <element signature="e#24036#24037#0" expanded="false" />
             <element signature="docComment;method#println#0;class#PrintStream#0" expanded="false" />
-            <element signature="e#24380#24381#0" expanded="false" />
-            <element signature="e#24405#24406#0" expanded="false" />
             <element signature="docComment;method#println#1;class#PrintStream#0" expanded="false" />
             <element signature="method#println#1;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#println#2;class#PrintStream#0" expanded="false" />
@@ -2096,11 +1882,7 @@
             <element signature="docComment;method#println#9;class#PrintStream#0" expanded="false" />
             <element signature="method#println#9;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#printf#0;class#PrintStream#0" expanded="false" />
-            <element signature="e#29974#29975#0" expanded="false" />
-            <element signature="e#30017#30018#0" expanded="false" />
             <element signature="docComment;method#printf#1;class#PrintStream#0" expanded="false" />
-            <element signature="e#32148#32149#0" expanded="false" />
-            <element signature="e#32194#32195#0" expanded="false" />
             <element signature="docComment;method#format#0;class#PrintStream#0" expanded="false" />
             <element signature="method#format#0;class#PrintStream#0" expanded="false" />
             <element signature="docComment;method#format#1;class#PrintStream#0" expanded="false" />
@@ -2120,8 +1902,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6783">
           <caret line="483" column="25" selection-start-line="483" selection-start-column="19" selection-end-line="483" selection-end-column="25" />
           <folding>
-            <element signature="e#0#136193#0" expanded="false" />
-            <element signature="imports" expanded="false" />
             <element signature="docComment;class#Locale#0" expanded="false" />
             <element signature="docComment;field#ENGLISH#0;class#Locale#0" expanded="false" />
             <element signature="docComment;field#FRENCH#0;class#Locale#0" expanded="false" />
@@ -2154,11 +1934,7 @@
             <element signature="docComment;method#Locale#1;class#Locale#0" expanded="false" />
             <element signature="method#Locale#1;class#Locale#0" expanded="false" />
             <element signature="docComment;method#Locale#2;class#Locale#0" expanded="false" />
-            <element signature="e#28232#28233#0" expanded="false" />
-            <element signature="e#28275#28276#0" expanded="false" />
             <element signature="docComment;method#Locale#3;class#Locale#0" expanded="false" />
-            <element signature="e#29246#29247#0" expanded="false" />
-            <element signature="e#29284#29285#0" expanded="false" />
             <element signature="docComment;method#createConstant#0;class#Locale#0" expanded="false" />
             <element signature="method#createConstant#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getInstance#0;class#Locale#0" expanded="false" />
@@ -2167,13 +1943,9 @@
             <element signature="method#getInstance#2;class#Locale#0" expanded="false" />
             <element signature="class#Cache#0;class#Locale#0" expanded="false" />
             <element signature="method#Cache#0;class#Cache#0;class#Locale#0" expanded="false" />
-            <element signature="e#31414#31415#0" expanded="false" />
-            <element signature="e#31475#31476#0" expanded="false" />
             <element signature="class#LocaleKey#0;class#Locale#0" expanded="false" />
             <element signature="method#LocaleKey#0;class#LocaleKey#0;class#Locale#0" expanded="false" />
             <element signature="method#equals#0;class#LocaleKey#0;class#Locale#0" expanded="false" />
-            <element signature="e#32587#32588#0" expanded="false" />
-            <element signature="e#32622#32623#0" expanded="false" />
             <element signature="docComment;method#getDefault#0;class#Locale#0" expanded="false" />
             <element signature="method#getDefault#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getDefault#1;class#Locale#0" expanded="false" />
@@ -2185,31 +1957,17 @@
             <element signature="docComment;method#setDefault#1;class#Locale#0" expanded="false" />
             <element signature="method#setDefault#1;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getAvailableLocales#0;class#Locale#0" expanded="false" />
-            <element signature="e#41035#41036#0" expanded="false" />
-            <element signature="e#41108#41109#0" expanded="false" />
             <element signature="docComment;method#getISOCountries#0;class#Locale#0" expanded="false" />
             <element signature="method#getISOCountries#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getISOLanguages#0;class#Locale#0" expanded="false" />
             <element signature="method#getISOLanguages#0;class#Locale#0" expanded="false" />
             <element signature="method#getISO2Table#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getLanguage#0;class#Locale#0" expanded="false" />
-            <element signature="e#44030#44031#0" expanded="false" />
-            <element signature="e#44077#44078#0" expanded="false" />
             <element signature="docComment;method#getScript#0;class#Locale#0" expanded="false" />
-            <element signature="e#44482#44483#0" expanded="false" />
-            <element signature="e#44527#44528#0" expanded="false" />
             <element signature="docComment;method#getCountry#0;class#Locale#0" expanded="false" />
-            <element signature="e#44870#44871#0" expanded="false" />
-            <element signature="e#44915#44916#0" expanded="false" />
             <element signature="docComment;method#getVariant#0;class#Locale#0" expanded="false" />
-            <element signature="e#45125#45126#0" expanded="false" />
-            <element signature="e#45171#45172#0" expanded="false" />
             <element signature="docComment;method#hasExtensions#0;class#Locale#0" expanded="false" />
-            <element signature="e#45429#45430#0" expanded="false" />
-            <element signature="e#45476#45477#0" expanded="false" />
             <element signature="docComment;method#stripExtensions#0;class#Locale#0" expanded="false" />
-            <element signature="e#45871#45872#0" expanded="false" />
-            <element signature="e#45955#45956#0" expanded="false" />
             <element signature="docComment;method#getExtension#0;class#Locale#0" expanded="false" />
             <element signature="method#getExtension#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getExtensionKeys#0;class#Locale#0" expanded="false" />
@@ -2221,11 +1979,7 @@
             <element signature="docComment;method#getUnicodeLocaleKeys#0;class#Locale#0" expanded="false" />
             <element signature="method#getUnicodeLocaleKeys#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getBaseLocale#0;class#Locale#0" expanded="false" />
-            <element signature="e#49560#49561#0" expanded="false" />
-            <element signature="e#49593#49594#0" expanded="false" />
             <element signature="docComment;method#getLocaleExtensions#0;class#Locale#0" expanded="false" />
-            <element signature="e#49866#49867#0" expanded="false" />
-            <element signature="e#49907#49908#0" expanded="false" />
             <element signature="docComment;method#toString#0;class#Locale#0" expanded="false" />
             <element signature="method#toString#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#toLanguageTag#0;class#Locale#0" expanded="false" />
@@ -2238,30 +1992,20 @@
             <element signature="method#getISO3Country#0;class#Locale#0" expanded="false" />
             <element signature="method#getISO3Code#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getDisplayLanguage#0;class#Locale#0" expanded="false" />
-            <element signature="e#67883#67884#0" expanded="false" />
-            <element signature="e#67954#67955#0" expanded="false" />
             <element signature="docComment;method#getDisplayLanguage#1;class#Locale#0" expanded="false" />
             <element signature="method#getDisplayLanguage#1;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getDisplayScript#0;class#Locale#0" expanded="false" />
-            <element signature="e#69600#69601#0" expanded="false" />
-            <element signature="e#69669#69670#0" expanded="false" />
             <element signature="docComment;method#getDisplayScript#1;class#Locale#0" expanded="false" />
             <element signature="method#getDisplayScript#1;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getDisplayCountry#0;class#Locale#0" expanded="false" />
-            <element signature="e#71440#71441#0" expanded="false" />
-            <element signature="e#71510#71511#0" expanded="false" />
             <element signature="docComment;method#getDisplayCountry#1;class#Locale#0" expanded="false" />
             <element signature="method#getDisplayCountry#1;class#Locale#0" expanded="false" />
             <element signature="method#getDisplayString#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getDisplayVariant#0;class#Locale#0" expanded="false" />
-            <element signature="e#73785#73786#0" expanded="false" />
-            <element signature="e#73855#73856#0" expanded="false" />
             <element signature="docComment;method#getDisplayVariant#1;class#Locale#0" expanded="false" />
             <element signature="method#getDisplayVariant#1;class#Locale#0" expanded="false" />
             <element signature="e#74675#74735#0" expanded="false" />
             <element signature="docComment;method#getDisplayName#0;class#Locale#0" expanded="false" />
-            <element signature="e#75824#75825#0" expanded="false" />
-            <element signature="e#75891#75892#0" expanded="false" />
             <element signature="docComment;method#getDisplayName#1;class#Locale#0" expanded="false" />
             <element signature="method#getDisplayName#1;class#Locale#0" expanded="false" />
             <element signature="e#77579#77647#0" expanded="false" />
@@ -2306,8 +2050,6 @@
             <element signature="docComment;class#Builder#0;class#Locale#0" expanded="false" />
             <element signature="class#Builder#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#Builder#0;class#Builder#0;class#Locale#0" expanded="false" />
-            <element signature="e#97607#97608#0" expanded="false" />
-            <element signature="e#97674#97675#0" expanded="false" />
             <element signature="docComment;method#setLocale#0;class#Builder#0;class#Locale#0" expanded="false" />
             <element signature="method#setLocale#0;class#Builder#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#setLanguageTag#0;class#Builder#0;class#Locale#0" expanded="false" />
@@ -2346,20 +2088,12 @@
             <element signature="docComment;field#MAX_WEIGHT#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
             <element signature="docComment;field#MIN_WEIGHT#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#LanguageRange#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
-            <element signature="e#117945#117946#0" expanded="false" />
-            <element signature="e#117992#117993#0" expanded="false" />
             <element signature="docComment;method#LanguageRange#1;class#LanguageRange#0;class#Locale#0" expanded="false" />
             <element signature="method#LanguageRange#1;class#LanguageRange#0;class#Locale#0" expanded="false" />
             <element signature="method#isSubtagIllFormed#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#getRange#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
-            <element signature="e#120744#120745#0" expanded="false" />
-            <element signature="e#120780#120781#0" expanded="false" />
             <element signature="docComment;method#getWeight#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
-            <element signature="e#120950#120951#0" expanded="false" />
-            <element signature="e#120987#120988#0" expanded="false" />
             <element signature="docComment;method#parse#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
-            <element signature="e#124586#124587#0" expanded="false" />
-            <element signature="e#124644#124645#0" expanded="false" />
             <element signature="docComment;method#parse#1;class#LanguageRange#0;class#Locale#0" expanded="false" />
             <element signature="method#parse#1;class#LanguageRange#0;class#Locale#0" expanded="false" />
             <element signature="docComment;method#mapEquivalents#0;class#LanguageRange#0;class#Locale#0" expanded="false" />
@@ -2388,16 +2122,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/HashMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3569061" vertical-offset="0" max-vertical-offset="905">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3359116" vertical-offset="0" max-vertical-offset="905">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
