@@ -6,6 +6,7 @@
     <artifactId>study</artifactId>
     <modules>
         <module>../../../../../../work4IDEA/Utils.for.work</module>
+        <module>../../../../../duobeiyun</module>
     </modules>
     <modelVersion>4.0.0</modelVersion>
     <version>1.0-SNAPSHOT</version>

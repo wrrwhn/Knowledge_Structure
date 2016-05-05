@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="duobeiyun" />
         <module name="Utils.for.work" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="BlogService" target="1.8" />
+      <module name="duobeiyun" target="1.8" />
       <module name="spark" target="1.8" />
       <module name="study" target="1.8" />
       <module name="Utils.for.work" target="1.8" />
