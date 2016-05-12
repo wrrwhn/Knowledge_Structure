@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="duobeiyun" />
+        <module name="spark" />
         <module name="Utils.for.work" />
       </profile>
     </annotationProcessing>
