@@ -40,7 +40,7 @@ public class WinnerState implements IState {
             case 2:
             default:
                 gm.releaseBalls();
-                System.out.println("\t*★,°*:.☆\\(￣▽￣)/$:*.°★* 【恭喜你中奖了】 *★,°*:.☆\\(￣▽￣)/$:*.°★*");
+//                System.out.println("\t*★,°*:.☆\\(￣▽￣)/$:*.°★* 【恭喜你中奖了】 *★,°*:.☆\\(￣▽￣)/$:*.°★*");
                 gm.releaseBalls();
                 break;
         }
