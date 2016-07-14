@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd8e330d-29e6-454a-84f8-6e74055befd0" name="Default" comment="" />
+    <list default="true" readonly="true" id="bd8e330d-29e6-454a-84f8-6e74055befd0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/Utils.for.work.iml" afterPath="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/Utils.for.work.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/ZipTest.java" afterPath="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/ZipTest.java" />
+    </list>
     <ignored path="代码.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/java-design-patterns/property/target/" />
@@ -48,6 +51,12 @@
     <ignored path="$PROJECT_DIR$/../../../../Spark/target/" />
     <ignored path="$PROJECT_DIR$/../../../../BlogService_SparkExample/target/" />
     <ignored path="$PROJECT_DIR$/../../../../duobeiyun/target/" />
+    <ignored path="$PROJECT_DIR$/../../../../spring-security/target/" />
+    <ignored path="$PROJECT_DIR$/../../../../duobeiyun-sdk/target/" />
+    <ignored path="$PROJECT_DIR$/../../../../duobeiyun-maven/target/" />
+    <ignored path="$PROJECT_DIR$/../../../../spring-boot-ueditor-master/target/" />
+    <ignored path="$PROJECT_DIR$/../../../../crowdfunding/code/admin/target/" />
+    <ignored path="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,18 +85,244 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="Hello.java" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/Hello.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+                    <caret line="25" column="159" selection-start-line="25" selection-start-column="159" selection-end-line="25" selection-end-column="159" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="DuobeiYunClient.class" pinned="false" current-in-tab="false">
+              <entry file="jar://$MAVEN_REPOSITORY$/duobeiyun/duobeiyun_java_sdk_01_23.jar!/com/duobeiyun/DuobeiYunClient.class">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="-20.68" vertical-offset="15" max-vertical-offset="2147">
+                    <caret line="40" column="48" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="48" />
+                    <folding>
+                      <element signature="method#createRoomByMinute#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#updateRoomTitle#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#updateRoomSchedule#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#uploadDocument#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#attatchDocument#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#listDocuments#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#removeDocument#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#getDocumentStatus#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#listAllDocument#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#merchantDetail#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#listRoom#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#roomDetail#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#generateDocPreviewUrl#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#deleteRoom#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#openWeixinLive#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#closeWeixinLive#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#updateWeixinLive#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#createVideoCourse#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#deleteDocumet#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#detailDocumet#0;class#DuobeiYunClient#0" expanded="false" />
+                      <element signature="method#prepareParameters#0;class#DuobeiYunClient#0" expanded="false" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="Room.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/response/Room.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.2402529" vertical-offset="0" max-vertical-offset="949">
+                    <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+                    <folding>
+                      <element signature="e#307#308#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="WebUtils.class" pinned="false" current-in-tab="false">
+              <entry file="jar://$MAVEN_REPOSITORY$/duobeiyun/duobeiyun_java_sdk_01_23.jar!/com/duobeiyun/utils/WebUtils.class">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="-9.88" vertical-offset="0" max-vertical-offset="2033">
+                    <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="代码" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FileMD5.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/study/java/security/FileMD5.java">
+      <file leaf-file-name="DBYLiveTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/test/java/com/netdragon/live/DBYLiveTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35359117" vertical-offset="41" max-vertical-offset="969">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1064">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericsParseUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/utils/GenericsParseUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42600897" vertical-offset="0" max-vertical-offset="988">
+              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+              <folding>
+                <element signature="class#889:937" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TypeToken.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/reflect/TypeToken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1125" max-vertical-offset="5206">
+              <caret line="47" column="32" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="32" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GSonUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/GSonUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1900">
+              <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicVo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/vo/BasicVo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Room.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/vo/Room.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1387">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <folding>
+                <element signature="e#1504#1505#0" expanded="true" />
+                <element signature="e#1538#1539#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/utils/ParseUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1216">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedTreeMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/internal/LinkedTreeMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="631" max-vertical-offset="10754">
+              <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+              <folding>
+                <element signature="e#1855#1861#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gson.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/Gson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2455" max-vertical-offset="3971">
+              <caret line="769" column="17" selection-start-line="769" selection-start-column="11" selection-end-line="769" selection-end-column="17" />
+              <folding>
+                <element signature="docComment;class#Gson#0" expanded="false" />
+                <element signature="docComment;field#calls#0;class#Gson#0" expanded="false" />
+                <element signature="class#5336:5561" expanded="false" />
+                <element signature="docComment;method#Gson#0;class#Gson#0" expanded="false" />
+                <element signature="method#Gson#0;class#Gson#0" expanded="false" />
+                <element signature="method#Gson#1;class#Gson#0" expanded="false" />
+                <element signature="method#doubleAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="class#11935:12475" expanded="false" />
+                <element signature="method#read#0;class#11935:12475" expanded="false" />
+                <element signature="method#write#0;class#11935:12475" expanded="false" />
+                <element signature="method#floatAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="class#12673:13216" expanded="false" />
+                <element signature="method#read#0;class#12673:13216" expanded="false" />
+                <element signature="method#write#0;class#12673:13216" expanded="false" />
+                <element signature="method#checkValidFloatingPoint#0;class#Gson#0" expanded="false" />
+                <element signature="method#longAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="class#13787:14240" expanded="false" />
+                <element signature="method#read#0;class#13787:14240" expanded="false" />
+                <element signature="method#write#0;class#13787:14240" expanded="false" />
+                <element signature="docComment;method#getAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="method#getAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#getDelegateAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="method#getDelegateAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#getAdapter#1;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJsonTree#0;class#Gson#0" expanded="false" />
+                <element signature="method#toJsonTree#0;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJsonTree#1;class#Gson#0" expanded="false" />
+                <element signature="method#toJsonTree#1;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJson#0;class#Gson#0" expanded="false" />
+                <element signature="method#toJson#0;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJson#1;class#Gson#0" expanded="false" />
+                <element signature="method#toJson#1;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJson#2;class#Gson#0" expanded="false" />
+                <element signature="method#toJson#2;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJson#3;class#Gson#0" expanded="false" />
+                <element signature="method#toJson#3;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJson#4;class#Gson#0" expanded="false" />
+                <element signature="method#toJson#4;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJson#5;class#Gson#0" expanded="false" />
+                <element signature="method#toJson#5;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJson#6;class#Gson#0" expanded="false" />
+                <element signature="method#toJson#6;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#newJsonWriter#0;class#Gson#0" expanded="false" />
+                <element signature="method#newJsonWriter#0;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#toJson#7;class#Gson#0" expanded="false" />
+                <element signature="method#toJson#7;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#fromJson#2;class#Gson#0" expanded="false" />
+                <element signature="method#fromJson#2;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#fromJson#3;class#Gson#0" expanded="false" />
+                <element signature="method#assertFullConsumption#0;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#fromJson#4;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#fromJson#5;class#Gson#0" expanded="false" />
+                <element signature="method#fromJson#5;class#Gson#0" expanded="false" />
+                <element signature="docComment;method#fromJson#6;class#Gson#0" expanded="false" />
+                <element signature="method#fromJson#6;class#Gson#0" expanded="false" />
+                <element signature="class#FutureTypeAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="method#setDelegate#0;class#FutureTypeAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="method#read#0;class#FutureTypeAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="method#write#0;class#FutureTypeAdapter#0;class#Gson#0" expanded="false" />
+                <element signature="method#toString#0;class#Gson#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,62 +336,69 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/Data.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/Article.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/Category.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/Application.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/DataService.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/pom.xml" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/template/Application.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/resources/template/freemarker.ftl" />
-        <option value="$PROJECT_DIR$/../../../../BlogService_SparkExample/src/test/java/me/tomassetti/handlers/PostsIndexHandlerTest.java" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/utils/Person.java" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/BitOperator.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/template/README.md" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/UrlTest.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/Answer.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/model/Validable.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/model/Category.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/model/Article.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/RequestHandler.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/service/DataService.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/service/Model.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/PostsCreateHandler.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/ArticleCreaterHandler.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/impl/AbstractRequestHandler.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/PostsIndexHandler.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/ArticleListHandler.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/impl/ArticleCreaterHandler.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/service/Sql2oModel.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/Application.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/model/Empty.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/AbstractRequestHandler.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/test/java.com.spark.test/PostsIndexHandlerTest.java" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/init/Application.java" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/pom.xml" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/ZipTest.java" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/utils/FileNameUtilsTest.java" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/MD5Test.java" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/RandomTest.java" />
-        <option value="$PROJECT_DIR$/../../../../duobeiyun/pom.xml" />
-        <option value="$PROJECT_DIR$/../../../../duobeiyun/src/main/resources/duobeiyun-api-client.properties" />
-        <option value="$PROJECT_DIR$/../../../../duobeiyun/src/main/java/nd/web/room/RoomService.java" />
-        <option value="$PROJECT_DIR$/../../../../duobeiyun/src/main/java/nd/web/room/impl/RoomServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../../../../duobeiyun/src/test/java/nd/test/tokenTest.java" />
-        <option value="$PROJECT_DIR$/../../../../duobeiyun/src/test/java/nd/web/room/RoomServiceTest.java" />
-        <option value="$PROJECT_DIR$/../../../../duobeiyun/src/main/java/nd/utils/HttpUtils.java" />
-        <option value="$PROJECT_DIR$/../../../../duobeiyun/src/main/java/nd/web/wechat/sdf.html" />
-        <option value="$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/impl/ArticleListHandler.java" />
-        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/study/designPatterns/state/upgrade/WinnerState.java" />
         <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/study/thread/forkJoin/asynchronous/Main.java" />
-        <option value="$PROJECT_DIR$/java-study/pom.xml" />
         <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/study/java/security/FileMD5.java" />
+        <option value="$PROJECT_DIR$/../../../../spring-security/src/main/java/com/tmy/App.java" />
+        <option value="$PROJECT_DIR$/../../../../spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../spring-security/src/main/java/com/tmy/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/study/useful/pattern/PatternTest.java" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/study/useful/exception/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/resources/duobeiyun-api-client.properties" />
+        <option value="$PROJECT_DIR$/../../../../spring-boot-ueditor-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/java/ZipTest.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/webapp/resources/web_import/utils/utils.js" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/webapp/WEB-INF/jsp/article-add.jsp" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/CrowdfundingConfiguration.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/webapp/WEB-INF/jsp/article-type-lst.jsp" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/webapp/WEB-INF/jsp/article-lst.jsp" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/article/article/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/article/content/service/ArticleContentService.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/article/content/service/impl/ArticleContentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/article/article/controller/ArticleControllers.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/article/article/service/impl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/article/content/entity/ArticleContent.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/article/content/repository/ArticleContentRepository.java" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/src/main/java/com/crowdfunding/admin/article/article/repository/ArticleRepository.java" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/FileUtils.java" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/ReadUtils.java" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/ObjectUtils.java" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/ChargeType.java" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/response/Room.java" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/response/Success.java" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/ChargeTypeUtil.java" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/DateUtils.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/msgpush/service/impl/JPushServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/Hello.java" />
+        <option value="$PROJECT_DIR$/java-study/pom.xml" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/StringUtils.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/service/impl/liveService.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/config/UserRole.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/service/liveService.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/config/Role.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/service/impl/LiveServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/service/LiveService.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/vo/ResponseVo.java" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/ReflectionUtils.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/utils/ParseUtils.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/service/impl/DBYLiveServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/test/java/com/netdragon/live/DBYLiveTest.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/vo/Room.java" />
+        <option value="$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/GSonUtils.java" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/utils/GenericsParseUtils.java" />
       </list>
     </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -164,6 +406,12 @@
         <option name="importAutomatically" value="true" />
         <option name="lookForNested" value="true" />
       </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="nexus" />
+        <option value="Mule Org" />
+      </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -180,7 +428,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="duobeiyun" />
+          <option name="myItemId" value="live" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -194,7 +442,25 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="duobeiyun" />
+          <option name="myItemId" value="live" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="junit:junit:4.10" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="live" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -210,7 +476,7 @@
     <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$M2_HOME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
@@ -286,8 +552,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -296,178 +560,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java-study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -481,8 +577,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Spark/pom.xml" />
-    <property name="options.lastSelected" value="reference.settings.project.maven.runner" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib" />
+    <property name="options.lastSelected" value="MavenSettings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -491,153 +587,39 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.spark.sql" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\work4ND_DBY\Java\lib\live\src\test\java" />
+      <recent name="D:\WorkSpace\work4ND_DBY\Java\lib\live\src" />
+      <recent name="D:\WorkSpace\work4Git\crowdfunding\code\admin\src\main\resources" />
+      <recent name="D:\WorkSpace\work4Git\duobeiyun-sdk\src\main\resources" />
       <recent name="D:\WorkSpace\work4Git\Spark\src\test\java.com.spark.test" />
-      <recent name="D:\WorkSpace\work4Git\Spark\src\main\java\com\spark\test\model" />
-      <recent name="D:\WorkSpace\work4Git\Spark\src\main\java\com\spark\test\handler" />
-      <recent name="D:\WorkSpace\work4Git\Spark\src\main\java\com\spark\template" />
-      <recent name="D:\WorkSpace\work4Git\Spark\src\main\java\com\spark\sql" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\work4ND_DBY\Java\lib\live\src\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.duobeiyun.utils" />
       <recent name="com.spark.init" />
       <recent name="com.spark.test.handler" />
       <recent name="com.spark.test.model" />
       <recent name="com.spark.test" />
-      <recent name="com.spark.test.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileMD5">
-    <configuration default="false" name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DBYLiveTest.genericsParseTest">
+    <configuration default="false" name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.yao.test.java.*" />
+          <option name="PATTERN" value="com.yao.utils.custom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yao.test.java.HashMapTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Utils.for.work" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.yao.test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yao.test.java.RandomTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Utils.for.work" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="tokenTest.tokenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="nd.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="duobeiyun" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="nd.test" />
-      <option name="MAIN_CLASS_NAME" value="nd.test.tokenTest" />
-      <option name="METHOD_NAME" value="tokenTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RoomServiceTest.createRoomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="nd.web.room.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="duobeiyun" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="nd.web.room" />
-      <option name="MAIN_CLASS_NAME" value="nd.web.room.RoomServiceTest" />
-      <option name="METHOD_NAME" value="createRoomTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FileMD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.yao.study.java.security.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yao.study.java.security.FileMD5" />
+      <option name="MAIN_CLASS_NAME" value="com.yao.utils.custom.StringUtils" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -656,6 +638,134 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DBYLiveTest.flowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.netdragon.live.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="live" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.netdragon.live" />
+      <option name="MAIN_CLASS_NAME" value="com.netdragon.live.DBYLiveTest" />
+      <option name="METHOD_NAME" value="flowTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GSonUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yao.utils.custom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yao.utils.custom.GSonUtils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="study" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DBYLiveTest.genericsParseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.netdragon.live.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="live" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.netdragon.live" />
+      <option name="MAIN_CLASS_NAME" value="com.netdragon.live.DBYLiveTest" />
+      <option name="METHOD_NAME" value="genericsParseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DBYLiveTest.generateUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.netdragon.live.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="live" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.netdragon.live" />
+      <option name="MAIN_CLASS_NAME" value="com.netdragon.live.DBYLiveTest" />
+      <option name="METHOD_NAME" value="generateUrl" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -707,6 +817,17 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -747,6 +868,7 @@
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../../../../spring-boot-ueditor-master/libs/baidu/ueditor/1.1.1/ueditor-1.1.1.jar" />
       <envs />
       <method />
     </configuration>
@@ -922,26 +1044,111 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HashMapTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RandomTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.tokenTest.tokenTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RoomServiceTest.createRoomTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FileMD5" />
+    <configuration default="false" name="Tomcat-AdminSite" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.3" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="adminsite:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_代码_2" />
+        <option name="HTTP_PORT" value="9090" />
+        <option name="JNDI_PORT" value="9099" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61751" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="adminsite:war" />
+        </option>
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat-AdminSite" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StringUtils" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DBYLiveTest.flowTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.GSonUtils" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DBYLiveTest.genericsParseTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.DBYLiveTest.generateUrl" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FileMD5" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RoomServiceTest.createRoomTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.tokenTest.tokenTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RandomTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HashMapTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DBYLiveTest.genericsParseTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DBYLiveTest.generateUrl" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DBYLiveTest.flowTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GSonUtils" />
+        <item index="4" class="java.lang.String" itemvalue="Application.StringUtils" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1008,50 +1215,88 @@
       <workItem from="1464576792162" duration="1994000" />
       <workItem from="1464662195950" duration="1017000" />
       <workItem from="1464836806791" duration="1006000" />
+      <workItem from="1464921371930" duration="597000" />
+      <workItem from="1465178883717" duration="1132000" />
+      <workItem from="1465263038009" duration="3425000" />
+      <workItem from="1465373720788" duration="592000" />
+      <workItem from="1465696185902" duration="5657000" />
+      <workItem from="1465783437419" duration="598000" />
+      <workItem from="1465870913951" duration="2762000" />
+      <workItem from="1465969973369" duration="4618000" />
+      <workItem from="1466042627408" duration="12274000" />
+      <workItem from="1467100296875" duration="5307000" />
+      <workItem from="1467273423589" duration="3066000" />
+      <workItem from="1467361959765" duration="934000" />
+      <workItem from="1467687977905" duration="5693000" />
+      <workItem from="1467776784999" duration="3773000" />
+      <workItem from="1468205637025" duration="1068000" />
+      <workItem from="1468313877276" duration="1252000" />
+      <workItem from="1468380115364" duration="15341000" />
+      <workItem from="1468459819337" duration="23135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195293000" />
+    <option name="totallyTimeSpent" value="286517000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3961456" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19509594" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20522387" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1913646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17217484" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3704497" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3436831" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1913646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17217484" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3961456" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33190578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1060,25 +1305,25 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3961456" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19509594" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20522387" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17217484" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17217484" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3961456" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3704497" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33190578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3436831" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1086,7 +1331,7 @@
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -1108,17 +1353,37 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="20" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/duobeiyun/duobeiyun_java_sdk_01_23.jar!/com/duobeiyun/DuobeiYunConfig.class</url>
+          <line>66</line>
+          <properties class="com.duobeiyun.DuobeiYunConfig" />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="46" />
     </breakpoint-manager>
     <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="json" language="JAVA" custom="" />
+        <watch expression="new TypeToken&lt;T&gt;() {}" language="JAVA" custom="" />
+        <watch expression="T" language="JAVA" custom="" />
+        <watch expression="T t= null;" language="JAVA" custom="" />
+        <watch expression="T instanceof com.yao.utils.custom.GSonUtils.Room" language="JAVA" custom="" />
+        <watch expression="parseObj.getClass()" language="JAVA" custom="" />
+        <watch expression="new TypeToken&lt;T&gt;() {&#10;                    }.getType()" />
+        <watch expression="new TypeToken&lt;com.yao.utils.custom.GSonUtils.Room&gt;() {}.getType()" language="JAVA" custom="" />
+      </configuration>
       <configuration name="Application">
-        <watch expression="Integer.toBinaryString(5)" language="JAVA" custom="" />
-        <watch expression="bits.toString()" language="JAVA" custom="" />
-        <watch expression="ArrayUtils.toString(bits)" language="JAVA" custom="org.apache.commons.lang.ArrayUtils" />
-        <watch expression="request.body()" language="JAVA" custom="" />
-        <watch expression="Paths.get(path, file).toString()" language="JAVA" custom="" />
-        <watch expression="path" language="JAVA" custom="" />
-        <watch expression="path+ File.separator" language="JAVA" custom="" />
+        <watch expression="json" language="JAVA" custom="" />
+        <watch expression="map.get(map.keySet().iterator().next())" language="JAVA" custom="" />
+        <watch expression="gson.toJson(map.get(map.keySet().iterator().next()))" language="JAVA" custom="" />
+        <watch expression="gson.fromJson(gson.toJson(map.get(map.keySet().iterator().next())).replace(&quot;'&quot;, &quot;\&quot;&quot;), new TypeToken&lt;T&gt;(){}.getType())" language="JAVA" custom="" />
+        <watch expression="gson.toJson(map.get(map.keySet().iterator().next())).replace(&quot;'&quot;, &quot;\&quot;&quot;)" language="JAVA" custom="" />
+        <watch expression="json.replace(&quot;'&quot;, &quot;\&quot;&quot;)" language="JAVA" custom="" />
+        <watch expression="(String)map.get(map.keySet().iterator().next())" language="JAVA" custom="" />
+        <watch expression="Room.class.getFields()" language="JAVA" custom="" />
+        <watch expression="Room.class.getDeclaredFields()" language="JAVA" custom="" />
       </configuration>
     </watches-manager>
   </component>
@@ -1127,361 +1392,1009 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0.jar!/com/duobeiyun/Constants.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0.jar!/com/duobeiyun/DuobeiYunClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04198895" vertical-offset="0" max-vertical-offset="905">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6365">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun/src/main/resources/duobeiyun-api-client.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0.jar!/com/duobeiyun/DuobeiYunConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04198895" vertical-offset="0" max-vertical-offset="905">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0839779" vertical-offset="0" max-vertical-offset="2071">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar!/com/google/common/collect/Maps.java">
+    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun-maven/src/main/java/nd/web/room/impl/RoomServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20662983" vertical-offset="744" max-vertical-offset="8797">
-          <caret line="246" column="48" selection-start-line="246" selection-start-column="41" selection-end-line="246" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.1679558" vertical-offset="0" max-vertical-offset="905">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3-sources.jar!/org/apache/http/message/BasicNameValuePair.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0.jar!/com/duobeiyun/utils/WebUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="174" max-vertical-offset="1577">
-          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        <state vertical-scroll-proportion="-0.3569061" vertical-offset="399" max-vertical-offset="1748">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3-sources.jar!/org/apache/http/util/EntityUtils.java">
+    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun-maven/src/main/java/nd/web/room/RoomService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="969">
-          <caret line="285" column="25" selection-start-line="285" selection-start-column="25" selection-end-line="285" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0839779" vertical-offset="0" max-vertical-offset="905">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3-sources.jar!/org/apache/http/HttpResponse.java">
+    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/response/Success.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3325967" vertical-offset="1504" max-vertical-offset="2584">
-          <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0839779" vertical-offset="0" max-vertical-offset="905">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3-sources.jar!/org/apache/http/HttpEntity.java">
+    <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/DateUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.045303866" vertical-offset="744" max-vertical-offset="3382">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        <state vertical-scroll-proportion="1.0034246" vertical-offset="41" max-vertical-offset="969">
+          <caret line="120" column="47" selection-start-line="120" selection-start-column="47" selection-end-line="120" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0-sources.jar!/com/duobeiyun/utils/WebUtils.java">
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/util/Calendar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.41095892" vertical-offset="10058" max-vertical-offset="10963">
+          <caret line="3398" column="0" selection-start-line="3398" selection-start-column="0" selection-end-line="3399" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#Calendar#0" expanded="false" />
+            <element signature="e#14536#14560#0" expanded="false" />
+            <element signature="docComment;field#ERA#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#YEAR#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#MONTH#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#WEEK_OF_YEAR#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#WEEK_OF_MONTH#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#DATE#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#DAY_OF_MONTH#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#DAY_OF_YEAR#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#DAY_OF_WEEK#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#DAY_OF_WEEK_IN_MONTH#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#AM_PM#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#HOUR#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#HOUR_OF_DAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#MINUTE#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#SECOND#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#MILLISECOND#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#ZONE_OFFSET#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#DST_OFFSET#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#FIELD_COUNT#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#SUNDAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#MONDAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#TUESDAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#WEDNESDAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#THURSDAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#FRIDAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#SATURDAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#JANUARY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#FEBRUARY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#MARCH#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#APRIL#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#MAY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#JUNE#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#JULY#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#AUGUST#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#SEPTEMBER#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#OCTOBER#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#NOVEMBER#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#DECEMBER#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#UNDECIMBER#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#AM#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#PM#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#ALL_STYLES#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#SHORT#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#LONG#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#NARROW_FORMAT#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#NARROW_STANDALONE#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#SHORT_FORMAT#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#LONG_FORMAT#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#SHORT_STANDALONE#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#LONG_STANDALONE#0;class#Calendar#0" expanded="false" />
+            <element signature="e#32086#32104#0" expanded="false" />
+            <element signature="docComment;field#fields#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#isSet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#stamp#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#time#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#isTimeSet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#areFieldsSet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#areAllFieldsSet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#lenient#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#zone#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#sharedZone#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#firstDayOfWeek#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#minimalDaysInFirstWeek#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#cachedLocaleData#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#UNSET#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#COMPUTED#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#MINIMUM_USER_STAMP#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#ALL_FIELDS#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#nextStamp#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;field#serialVersionOnStream#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#Builder#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#Builder#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setInstant#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setInstant#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setInstant#1;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#set#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#set#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setFields#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setFields#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setDate#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setDate#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setTimeOfDay#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setTimeOfDay#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setTimeOfDay#1;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setTimeOfDay#1;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setWeekDate#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setWeekDate#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setTimeZone#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setTimeZone#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setLenient#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setLenient#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setCalendarType#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setCalendarType#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setLocale#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setLocale#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setWeekDefinition#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setWeekDefinition#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#build#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#build#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="e#62366#62427#0" expanded="false" />
+            <element signature="method#allocateFields#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="method#internalSet#0;class#Builder#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#Calendar#0;class#Calendar#0" expanded="false" />
+            <element signature="method#Calendar#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#Calendar#1;class#Calendar#0" expanded="false" />
+            <element signature="method#Calendar#1;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getInstance#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getInstance#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getInstance#1;class#Calendar#0" expanded="false" />
+            <element signature="method#getInstance#1;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getInstance#2;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getInstance#3;class#Calendar#0" expanded="false" />
+            <element signature="method#getInstance#3;class#Calendar#0" expanded="false" />
+            <element signature="method#createCalendar#0;class#Calendar#0" expanded="false" />
+            <element signature="e#68107#68160#0" expanded="false" />
+            <element signature="docComment;method#getAvailableLocales#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#computeTime#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#computeFields#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getTime#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setTime#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getTimeInMillis#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getTimeInMillis#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setTimeInMillis#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setTimeInMillis#0;class#Calendar#0" expanded="false" />
+            <element signature="e#71715#71776#0" expanded="false" />
+            <element signature="docComment;method#get#0;class#Calendar#0" expanded="false" />
+            <element signature="method#get#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#internalGet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#internalSet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#set#0;class#Calendar#0" expanded="false" />
+            <element signature="method#set#0;class#Calendar#0" expanded="false" />
+            <element signature="e#74553#74613#0" expanded="false" />
+            <element signature="docComment;method#set#1;class#Calendar#0" expanded="false" />
+            <element signature="method#set#1;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#set#2;class#Calendar#0" expanded="false" />
+            <element signature="method#set#2;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#set#3;class#Calendar#0" expanded="false" />
+            <element signature="method#set#3;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#Calendar#0" expanded="false" />
+            <element signature="method#clear#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#clear#1;class#Calendar#0" expanded="false" />
+            <element signature="method#clear#1;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#isSet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getDisplayName#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getDisplayName#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getDisplayNames#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getDisplayNames#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getDisplayNamesImpl#0;class#Calendar#0" expanded="false" />
+            <element signature="method#checkDisplayNameParams#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getFieldStrings#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#complete#0;class#Calendar#0" expanded="false" />
+            <element signature="method#complete#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#isExternallySet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getSetStateFields#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getSetStateFields#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setFieldsComputed#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setFieldsComputed#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setFieldsNormalized#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setFieldsNormalized#0;class#Calendar#0" expanded="false" />
+            <element signature="e#95073#95122#0" expanded="false" />
+            <element signature="docComment;method#isPartiallyNormalized#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#isFullyNormalized#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setUnnormalized#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#isFieldSet#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#selectFields#0;class#Calendar#0" expanded="false" />
+            <element signature="method#selectFields#0;class#Calendar#0" expanded="false" />
+            <element signature="e#97206#97277#0" expanded="false" />
+            <element signature="e#97647#97712#0" expanded="false" />
+            <element signature="e#100541#100585#0" expanded="false" />
+            <element signature="e#101803#101868#0" expanded="false" />
+            <element signature="docComment;method#aggregateStamp#0;class#Calendar#0" expanded="false" />
+            <element signature="method#aggregateStamp#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getAvailableCalendarTypes#0;class#Calendar#0" expanded="false" />
+            <element signature="class#AvailableCalendarTypes#0;class#Calendar#0" expanded="false" />
+            <element signature="initializer##0;class#AvailableCalendarTypes#0;class#Calendar#0" expanded="false" />
+            <element signature="method#AvailableCalendarTypes#0;class#AvailableCalendarTypes#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getCalendarType#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Calendar#0" expanded="false" />
+            <element signature="e#107321#107378#0" expanded="false" />
+            <element signature="method#equals#0;class#Calendar#0" expanded="false" />
+            <element signature="e#107865#107910#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Calendar#0" expanded="false" />
+            <element signature="method#hashCode#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#before#0;class#Calendar#0" expanded="false" />
+            <element signature="method#before#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#after#0;class#Calendar#0" expanded="false" />
+            <element signature="method#after#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#compareTo#0;class#Calendar#0" expanded="false" />
+            <element signature="e#111238#111239#0" expanded="false" />
+            <element signature="e#111300#111301#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#roll#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#roll#1;class#Calendar#0" expanded="false" />
+            <element signature="method#roll#1;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setTimeZone#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setTimeZone#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getTimeZone#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getTimeZone#0;class#Calendar#0" expanded="false" />
+            <element signature="e#115220#115289#0" expanded="false" />
+            <element signature="docComment;method#getZone#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setZoneShared#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setLenient#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#isLenient#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setFirstDayOfWeek#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setFirstDayOfWeek#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getFirstDayOfWeek#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setMinimalDaysInFirstWeek#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setMinimalDaysInFirstWeek#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getMinimalDaysInFirstWeek#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#isWeekDateSupported#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getWeekYear#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setWeekDate#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getWeeksInWeekYear#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getMinimum#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getMaximum#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getGreatestMinimum#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getLeastMaximum#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getActualMinimum#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getActualMinimum#0;class#Calendar#0" expanded="false" />
+            <element signature="e#126456#126527#0" expanded="false" />
+            <element signature="e#126664#126741#0" expanded="false" />
+            <element signature="docComment;method#getActualMaximum#0;class#Calendar#0" expanded="false" />
+            <element signature="method#getActualMaximum#0;class#Calendar#0" expanded="false" />
+            <element signature="e#128451#128522#0" expanded="false" />
+            <element signature="e#128660#128735#0" expanded="false" />
+            <element signature="e#128949#129026#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#Calendar#0" expanded="false" />
+            <element signature="method#clone#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#getFieldName#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Calendar#0" expanded="false" />
+            <element signature="method#toString#0;class#Calendar#0" expanded="false" />
+            <element signature="e#131447#131505#0" expanded="false" />
+            <element signature="method#appendValue#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#setWeekCountData#0;class#Calendar#0" expanded="false" />
+            <element signature="method#setWeekCountData#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#updateTime#0;class#Calendar#0" expanded="false" />
+            <element signature="method#updateTime#0;class#Calendar#0" expanded="false" />
+            <element signature="e#133931#133991#0" expanded="false" />
+            <element signature="method#getMillisOf#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#adjustStamp#0;class#Calendar#0" expanded="false" />
+            <element signature="method#adjustStamp#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#invalidateWeekFields#0;class#Calendar#0" expanded="false" />
+            <element signature="method#invalidateWeekFields#0;class#Calendar#0" expanded="false" />
+            <element signature="e#135805#135870#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#Calendar#0" expanded="false" />
+            <element signature="method#writeObject#0;class#Calendar#0" expanded="false" />
+            <element signature="e#137478#137538#0" expanded="false" />
+            <element signature="e#137767#137820#0" expanded="false" />
+            <element signature="e#138346#138378#0" expanded="false" />
+            <element signature="class#CalendarAccessControlContext#0;class#Calendar#0" expanded="false" />
+            <element signature="initializer##0;class#CalendarAccessControlContext#0;class#Calendar#0" expanded="false" />
+            <element signature="method#CalendarAccessControlContext#0;class#CalendarAccessControlContext#0;class#Calendar#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#Calendar#0" expanded="false" />
+            <element signature="method#readObject#0;class#Calendar#0" expanded="false" />
+            <element signature="e#139582#139646#0" expanded="false" />
+            <element signature="class#140475:140727" expanded="false" />
+            <element signature="method#run#0;class#140475:140727" expanded="false" />
+            <element signature="e#141418#141476#0" expanded="false" />
+            <element signature="docComment;method#toInstant#0;class#Calendar#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3325967" vertical-offset="554" max-vertical-offset="2527">
-          <caret line="199" column="25" selection-start-line="199" selection-start-column="25" selection-end-line="199" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0-sources.jar!/com/duobeiyun/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="209">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0-sources.jar!/com/duobeiyun/DuobeiYunConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
-          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/study/useful/encrypt/EncryptUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54285717" vertical-offset="0" max-vertical-offset="9044">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun/src/test/java/nd/test/tokenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
-          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun/src/main/java/nd/web/room/RoomService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun/src/test/java/nd/web/room/RoomServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="589">
-          <caret line="20" column="65" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun/src/main/java/nd/web/room/impl/RoomServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/src/main/java/com.yao/test/utils/FileNameUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6-sources.jar!/org/apache/http/client/methods/HttpPost.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar!/org/apache/commons/io/FilenameUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07663552" vertical-offset="529" max-vertical-offset="1121">
-          <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.66961324" vertical-offset="971" max-vertical-offset="3496">
+          <caret line="475" column="71" selection-start-line="475" selection-start-column="71" selection-end-line="476" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6-sources.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/1.7.1/gson-1.7.1-sources.jar!/com/google/gson/JsonDeserializerExceptionWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24859813" vertical-offset="57" max-vertical-offset="874">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.5921288" vertical-offset="562" max-vertical-offset="1121">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/1.7.1/gson-1.7.1-sources.jar!/com/google/gson/Gson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10412">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun/src/main/java/nd/utils/HttpUtils.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar!/com/google/gson/Gson.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874">
-          <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
+        <state vertical-scroll-proportion="-3.04" vertical-offset="0" max-vertical-offset="8588">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0-sources.jar!/com/duobeiyun/DuobeiYunClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5460" max-vertical-offset="6365">
-          <caret line="332" column="46" selection-start-line="332" selection-start-column="35" selection-end-line="332" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0-sources.jar!/com/duobeiyun/AppBulidSign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="2090">
-          <caret line="86" column="14" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun/src/main/java/nd/web/wechat/sdf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2599772" vertical-offset="0" max-vertical-offset="877">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/db/db.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="905">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/db/table.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="905">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/chat/Chat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95801103" vertical-offset="311" max-vertical-offset="1387">
-          <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/DataService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1463">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/IValidable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/sql/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/resources/template/freemarker.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.75484604" vertical-offset="662" max-vertical-offset="1539">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/template/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="905">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/template/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="817">
-          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/service/Sql2oModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0839779" vertical-offset="0" max-vertical-offset="905">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/service/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0839779" vertical-offset="0" max-vertical-offset="905">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/model/Validable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04198895" vertical-offset="0" max-vertical-offset="905">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/model/Empty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10497238" vertical-offset="0" max-vertical-offset="905">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/model/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10497238" vertical-offset="0" max-vertical-offset="905">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/model/Article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10497238" vertical-offset="0" max-vertical-offset="905">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/Answer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/RequestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/AbstractRequestHandler.java">
+    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="44" />
+          <caret line="25" column="159" selection-start-line="25" selection-start-column="159" selection-end-line="25" selection-end-column="159" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Spark/src/main/java/com/spark/test/handler/impl/ArticleListHandler.java">
+    <entry file="file://$PROJECT_DIR$/java-study/study.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56685084" vertical-offset="0" max-vertical-offset="905">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/study/designPatterns/state/upgrade/WinnerState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7270718" vertical-offset="45" max-vertical-offset="950">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/security/MessageDigest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35469612" vertical-offset="2149" max-vertical-offset="10621">
-          <caret line="165" column="28" selection-start-line="165" selection-start-column="28" selection-end-line="165" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/study/thread/forkJoin/asynchronous/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60469013" vertical-offset="0" max-vertical-offset="1102">
-          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.4/commons-io-1.4-sources.jar!/org/apache/commons/io/FilenameUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19159664" vertical-offset="0" max-vertical-offset="3287">
-          <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.013445378" vertical-offset="9967" max-vertical-offset="45163">
-          <caret line="577" column="42" selection-start-line="577" selection-start-column="35" selection-end-line="577" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.8320442" vertical-offset="1033" max-vertical-offset="1938">
+          <caret line="94" column="69" selection-start-line="94" selection-start-column="69" selection-end-line="94" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-study/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79831934" vertical-offset="456" max-vertical-offset="4522">
-          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.4121547" vertical-offset="3731" max-vertical-offset="4636">
+          <caret line="216" column="21" selection-start-line="216" selection-start-column="21" selection-end-line="221" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/study/java/security/FileMD5.java">
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/lang/reflect/Type.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35359117" vertical-offset="41" max-vertical-offset="969">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.37790054" vertical-offset="0" max-vertical-offset="905">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54585636" vertical-offset="228" max-vertical-offset="2546">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/config/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/duobeiyun/duobeiyun_java_sdk_01_23.jar!/com/duobeiyun/utils/WebUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.88" vertical-offset="0" max-vertical-offset="2033">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5495" max-vertical-offset="22306">
+          <caret line="340" column="0" selection-start-line="340" selection-start-column="0" selection-end-line="340" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0-sources.jar!/com/duobeiyun/DuobeiYunConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="2071">
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/duobeiyun/sdk/duobeiyun_sdk/2.1.0/duobeiyun_sdk-2.1.0-sources.jar!/com/duobeiyun/DuobeiYunClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="346" max-vertical-offset="6365">
+          <caret line="36" column="67" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/resources/duobeiyun-api-client.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="171">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/duobeiyun/duobeiyun_java_sdk_01_23.jar!/com/duobeiyun/DuobeiYunConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.48" vertical-offset="753" max-vertical-offset="1729">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/test/resources/duobeiyun-api-client.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3899" max-vertical-offset="6099">
+          <caret line="266" column="0" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10-sources.jar!/org/junit/internal/runners/model/EachTestNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="836">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar!/org/apache/commons/lang3/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4055" max-vertical-offset="123785">
+          <caret line="252" column="0" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
+          <folding>
+            <element signature="e#9391#9392#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29392266" vertical-offset="0" max-vertical-offset="905">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2-sources.jar!/org/slf4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325967" vertical-offset="11726" max-vertical-offset="13889">
+          <caret line="656" column="14" selection-start-line="656" selection-start-column="14" selection-end-line="656" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/JsonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20552486" vertical-offset="80" max-vertical-offset="3040">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/jre/lib/rt.jar!/sun/reflect/generics/repository/GenericDeclRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30227274" vertical-offset="0" max-vertical-offset="880">
+          <caret line="24" column="95" selection-start-line="24" selection-start-column="95" selection-end-line="24" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46076232" vertical-offset="7" max-vertical-offset="1178">
+          <caret line="44" column="0" selection-start-line="43" selection-start-column="5" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="docComment;class#StringUtils#0" expanded="false" />
+            <element signature="method#test4Cron#0;class#StringUtils#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#StringUtils#0" expanded="false" />
+            <element signature="method#isEmpty#0;class#StringUtils#0" expanded="false" />
+            <element signature="docComment;method#format#0;class#StringUtils#0" expanded="false" />
+            <element signature="method#filenameReplace#0;class#StringUtils#0" expanded="false" />
+            <element signature="method#watermarkResize#0;class#StringUtils#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/ObjectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6928177" vertical-offset="0" max-vertical-offset="1140">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/duobeiyun/duobeiyun_java_sdk_01_23.jar!/com/duobeiyun/DuobeiYunClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.68" vertical-offset="15" max-vertical-offset="2147">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <element signature="method#createRoomByMinute#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#updateRoomTitle#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#updateRoomSchedule#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#uploadDocument#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#attatchDocument#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#listDocuments#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#removeDocument#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#getDocumentStatus#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#listAllDocument#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#merchantDetail#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#listRoom#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#roomDetail#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#generateDocPreviewUrl#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#deleteRoom#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#openWeixinLive#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#closeWeixinLive#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#updateWeixinLive#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#createVideoCourse#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#deleteDocumet#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#detailDocumet#0;class#DuobeiYunClient#0" expanded="false" />
+            <element signature="method#prepareParameters#0;class#DuobeiYunClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../duobeiyun-sdk/src/main/java/com/nd/response/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2402529" vertical-offset="0" max-vertical-offset="949">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1790" max-vertical-offset="7486">
+          <caret line="127" column="12" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/internal/$Gson$Types.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1410" max-vertical-offset="10203">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/server/Java/jdk1.8.0_65/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2911" max-vertical-offset="11476">
+          <caret line="1233" column="20" selection-start-line="1233" selection-start-column="20" selection-end-line="1233" selection-end-column="20" />
+          <folding>
+            <element signature="docComment;class#Class#0" expanded="false" />
+            <element signature="initializer##0;class#Class#0" expanded="false" />
+            <element signature="method#Class#0;class#Class#0" expanded="false" />
+            <element signature="e#4399#4479#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Class#0" expanded="false" />
+            <element signature="method#toString#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#toGenericString#0;class#Class#0" expanded="false" />
+            <element signature="method#toGenericString#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#forName#0;class#Class#0" expanded="false" />
+            <element signature="method#forName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#forName#1;class#Class#0" expanded="false" />
+            <element signature="method#forName#1;class#Class#0" expanded="false" />
+            <element signature="e#12531#12606#0" expanded="false" />
+            <element signature="docComment;method#forName0#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#newInstance#0;class#Class#0" expanded="false" />
+            <element signature="method#newInstance#0;class#Class#0" expanded="false" />
+            <element signature="e#15633#15694#0" expanded="false" />
+            <element signature="e#16168#16218#0" expanded="false" />
+            <element signature="class#16484:16724" expanded="false" />
+            <element signature="method#run#0;class#16484:16724" expanded="false" />
+            <element signature="docComment;method#isInstance#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAssignableFrom#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isInterface#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isArray#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isPrimitive#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isSynthetic#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getName#0;class#Class#0" expanded="false" />
+            <element signature="method#getName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getClassLoader#0;class#Class#0" expanded="false" />
+            <element signature="method#getClassLoader#0;class#Class#0" expanded="false" />
+            <element signature="method#getClassLoader0#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getTypeParameters#0;class#Class#0" expanded="false" />
+            <element signature="method#getTypeParameters#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getSuperclass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getGenericSuperclass#0;class#Class#0" expanded="false" />
+            <element signature="method#getGenericSuperclass#0;class#Class#0" expanded="false" />
+            <element signature="e#31562#31589#0" expanded="false" />
+            <element signature="docComment;method#getPackage#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getInterfaces#0;class#Class#0" expanded="false" />
+            <element signature="method#getInterfaces#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getGenericInterfaces#0;class#Class#0" expanded="false" />
+            <element signature="method#getGenericInterfaces#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getComponentType#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getModifiers#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getSigners#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#setSigners#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getEnclosingMethod#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnclosingMethod#0;class#Class#0" expanded="false" />
+            <element signature="e#42463#42515#0" expanded="false" />
+            <element signature="method#getEnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#EnclosingMethodInfo#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="e#44997#45045#0" expanded="false" />
+            <element signature="e#45225#45277#0" expanded="false" />
+            <element signature="e#45397#45449#0" expanded="false" />
+            <element signature="method#isConstructor#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#isMethod#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnclosingClass#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#getName#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#getDescriptor#0;class#EnclosingMethodInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#toClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getEnclosingConstructor#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnclosingConstructor#0;class#Class#0" expanded="false" />
+            <element signature="e#48886#48938#0" expanded="false" />
+            <element signature="docComment;method#getDeclaringClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getEnclosingClass#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnclosingClass#0;class#Class#0" expanded="false" />
+            <element signature="e#52430#52481#0" expanded="false" />
+            <element signature="docComment;method#getSimpleName#0;class#Class#0" expanded="false" />
+            <element signature="method#getSimpleName#0;class#Class#0" expanded="false" />
+            <element signature="e#54606#54667#0" expanded="false" />
+            <element signature="docComment;method#getTypeName#0;class#Class#0" expanded="false" />
+            <element signature="method#getTypeName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAsciiDigit#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getCanonicalName#0;class#Class#0" expanded="false" />
+            <element signature="method#getCanonicalName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAnonymousClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isLocalClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isMemberClass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getSimpleBinaryName#0;class#Class#0" expanded="false" />
+            <element signature="method#getSimpleBinaryName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isLocalOrAnonymousClass#0;class#Class#0" expanded="false" />
+            <element signature="method#isLocalOrAnonymousClass#0;class#Class#0" expanded="false" />
+            <element signature="e#59768#59823#0" expanded="false" />
+            <element signature="docComment;method#getClasses#0;class#Class#0" expanded="false" />
+            <element signature="method#getClasses#0;class#Class#0" expanded="false" />
+            <element signature="e#61299#61365#0" expanded="false" />
+            <element signature="class#61737:62511" expanded="false" />
+            <element signature="method#run#0;class#61737:62511" expanded="false" />
+            <element signature="docComment;method#getMethods#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getConstructors#0;class#Class#0" expanded="false" />
+            <element signature="method#getConstructors#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getField#0;class#Class#0" expanded="false" />
+            <element signature="method#getField#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getMethod#0;class#Class#0" expanded="false" />
+            <element signature="method#getMethod#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getConstructor#0;class#Class#0" expanded="false" />
+            <element signature="method#getConstructor#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredClasses#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredClasses#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredFields#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredMethods#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredMethods#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredConstructors#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredConstructors#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredField#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredField#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredMethod#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredMethod#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredConstructor#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredConstructor#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getResourceAsStream#0;class#Class#0" expanded="false" />
+            <element signature="method#getResourceAsStream#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getResource#0;class#Class#0" expanded="false" />
+            <element signature="method#getResource#0;class#Class#0" expanded="false" />
+            <element signature="docComment;field#allPermDomain#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getProtectionDomain#0;class#Class#0" expanded="false" />
+            <element signature="method#getProtectionDomain#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getProtectionDomain0#0;class#Class#0" expanded="false" />
+            <element signature="method#checkMemberAccess#0;class#Class#0" expanded="false" />
+            <element signature="method#checkPackageAccess#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#resolveName#0;class#Class#0" expanded="false" />
+            <element signature="method#resolveName#0;class#Class#0" expanded="false" />
+            <element signature="docComment;class#Atomic#0;class#Class#0" expanded="false" />
+            <element signature="class#Atomic#0;class#Class#0" expanded="false" />
+            <element signature="initializer##0;class#Atomic#0;class#Class#0" expanded="false" />
+            <element signature="method#objectFieldOffset#0;class#Atomic#0;class#Class#0" expanded="false" />
+            <element signature="method#casReflectionData#0;class#Atomic#0;class#Class#0" expanded="false" />
+            <element signature="method#casAnnotationType#0;class#Atomic#0;class#Class#0" expanded="false" />
+            <element signature="method#casAnnotationData#0;class#Atomic#0;class#Class#0" expanded="false" />
+            <element signature="docComment;field#useCaches#0;class#Class#0" expanded="false" />
+            <element signature="class#ReflectionData#0;class#Class#0" expanded="false" />
+            <element signature="method#reflectionData#0;class#Class#0" expanded="false" />
+            <element signature="e#105269#105342#0" expanded="false" />
+            <element signature="method#newReflectionData#0;class#Class#0" expanded="false" />
+            <element signature="method#getFactory#0;class#Class#0" expanded="false" />
+            <element signature="method#getGenericInfo#0;class#Class#0" expanded="false" />
+            <element signature="method#getExecutableTypeAnnotationBytes#0;class#Class#0" expanded="false" />
+            <element signature="e#107634#107636#0" expanded="false" />
+            <element signature="method#privateGetDeclaredFields#0;class#Class#0" expanded="false" />
+            <element signature="method#privateGetPublicFields#0;class#Class#0" expanded="false" />
+            <element signature="e#109023#109079#0" expanded="false" />
+            <element signature="method#addAll#0;class#Class#0" expanded="false" />
+            <element signature="e#110257#110259#0" expanded="false" />
+            <element signature="method#privateGetDeclaredConstructors#0;class#Class#0" expanded="false" />
+            <element signature="e#111426#111428#0" expanded="false" />
+            <element signature="method#privateGetDeclaredMethods#0;class#Class#0" expanded="false" />
+            <element signature="class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#MethodArray#1;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#add#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addAll#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addAll#1;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addIfNotPresent#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addAllIfNotPresent#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#addInterfaceMethods#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#getFirst#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#removeByNameAndDescriptor#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#remove#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#matchesNameAndDescriptor#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#compactAndTrim#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#removeLessSpecifics#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#hasMoreSpecificClass#0;class#MethodArray#0;class#Class#0" expanded="false" />
+            <element signature="method#privateGetPublicMethods#0;class#Class#0" expanded="false" />
+            <element signature="e#117978#118034#0" expanded="false" />
+            <element signature="e#118258#118314#0" expanded="false" />
+            <element signature="e#118901#118946#0" expanded="false" />
+            <element signature="e#119370#119417#0" expanded="false" />
+            <element signature="e#120111#120113#0" expanded="false" />
+            <element signature="method#searchFields#0;class#Class#0" expanded="false" />
+            <element signature="method#getField0#0;class#Class#0" expanded="false" />
+            <element signature="e#120605#120666#0" expanded="false" />
+            <element signature="method#searchMethods#0;class#Class#0" expanded="false" />
+            <element signature="method#getMethod0#0;class#Class#0" expanded="false" />
+            <element signature="method#privateGetMethodRecursive#0;class#Class#0" expanded="false" />
+            <element signature="e#123201#123262#0" expanded="false" />
+            <element signature="method#getConstructor0#0;class#Class#0" expanded="false" />
+            <element signature="e#125621#125623#0" expanded="false" />
+            <element signature="method#arrayContentsEq#0;class#Class#0" expanded="false" />
+            <element signature="method#copyFields#0;class#Class#0" expanded="false" />
+            <element signature="method#copyMethods#0;class#Class#0" expanded="false" />
+            <element signature="method#copyConstructors#0;class#Class#0" expanded="false" />
+            <element signature="method#argumentTypesToString#0;class#Class#0" expanded="false" />
+            <element signature="docComment;field#serialVersionUID#0;class#Class#0" expanded="false" />
+            <element signature="docComment;field#serialPersistentFields#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#desiredAssertionStatus#0;class#Class#0" expanded="false" />
+            <element signature="method#desiredAssertionStatus#0;class#Class#0" expanded="false" />
+            <element signature="e#130401#130462#0" expanded="false" />
+            <element signature="docComment;method#isEnum#0;class#Class#0" expanded="false" />
+            <element signature="method#isEnum#0;class#Class#0" expanded="false" />
+            <element signature="e#131183#131243#0" expanded="false" />
+            <element signature="method#getReflectionFactory#0;class#Class#0" expanded="false" />
+            <element signature="method#checkInitted#0;class#Class#0" expanded="false" />
+            <element signature="class#132125:133355" expanded="false" />
+            <element signature="method#run#0;class#132125:133355" expanded="false" />
+            <element signature="e#132208#132263#0" expanded="false" />
+            <element signature="docComment;method#getEnumConstants#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnumConstants#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getEnumConstantsShared#0;class#Class#0" expanded="false" />
+            <element signature="method#getEnumConstantsShared#0;class#Class#0" expanded="false" />
+            <element signature="class#134420:134665" expanded="false" />
+            <element signature="method#run#0;class#134420:134665" expanded="false" />
+            <element signature="e#134860#134916#0" expanded="false" />
+            <element signature="docComment;method#enumConstantDirectory#0;class#Class#0" expanded="false" />
+            <element signature="method#enumConstantDirectory#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#cast#0;class#Class#0" expanded="false" />
+            <element signature="method#cast#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#asSubclass#0;class#Class#0" expanded="false" />
+            <element signature="method#asSubclass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="method#getAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#isAnnotationPresent#0;class#Class#0" expanded="false" />
+            <element signature="method#isAnnotationPresent#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getAnnotationsByType#0;class#Class#0" expanded="false" />
+            <element signature="method#getAnnotationsByType#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getAnnotations#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="e#139715#139724#0" expanded="false" />
+            <element signature="method#getDeclaredAnnotation#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredAnnotationsByType#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredAnnotationsByType#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getDeclaredAnnotations#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredAnnotations#0;class#Class#0" expanded="false" />
+            <element signature="class#AnnotationData#0;class#Class#0" expanded="false" />
+            <element signature="method#AnnotationData#0;class#AnnotationData#0;class#Class#0" expanded="false" />
+            <element signature="method#annotationData#0;class#Class#0" expanded="false" />
+            <element signature="method#createAnnotationData#0;class#Class#0" expanded="false" />
+            <element signature="method#casAnnotationType#0;class#Class#0" expanded="false" />
+            <element signature="method#getDeclaredAnnotationMap#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getAnnotatedSuperclass#0;class#Class#0" expanded="false" />
+            <element signature="method#getAnnotatedSuperclass#0;class#Class#0" expanded="false" />
+            <element signature="docComment;method#getAnnotatedInterfaces#0;class#Class#0" expanded="false" />
+            <element signature="method#getAnnotatedInterfaces#0;class#Class#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/service/impl/DBYLiveServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="623" max-vertical-offset="1501">
+          <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/netdragon/live/service/LiveService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/vo/BasicVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/vo/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1387">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <element signature="e#1504#1505#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/test/java/com/netdragon/live/DBYLiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1064">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/reflect/TypeToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1125" max-vertical-offset="5206">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/Gson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2455" max-vertical-offset="3971">
+          <caret line="769" column="17" selection-start-line="769" selection-start-column="11" selection-end-line="769" selection-end-column="17" />
+          <folding>
+            <element signature="docComment;class#Gson#0" expanded="false" />
+            <element signature="docComment;field#calls#0;class#Gson#0" expanded="false" />
+            <element signature="class#5336:5561" expanded="false" />
+            <element signature="docComment;method#Gson#0;class#Gson#0" expanded="false" />
+            <element signature="method#Gson#0;class#Gson#0" expanded="false" />
+            <element signature="method#Gson#1;class#Gson#0" expanded="false" />
+            <element signature="method#doubleAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="class#11935:12475" expanded="false" />
+            <element signature="method#read#0;class#11935:12475" expanded="false" />
+            <element signature="method#write#0;class#11935:12475" expanded="false" />
+            <element signature="method#floatAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="class#12673:13216" expanded="false" />
+            <element signature="method#read#0;class#12673:13216" expanded="false" />
+            <element signature="method#write#0;class#12673:13216" expanded="false" />
+            <element signature="method#checkValidFloatingPoint#0;class#Gson#0" expanded="false" />
+            <element signature="method#longAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="class#13787:14240" expanded="false" />
+            <element signature="method#read#0;class#13787:14240" expanded="false" />
+            <element signature="method#write#0;class#13787:14240" expanded="false" />
+            <element signature="docComment;method#getAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="method#getAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#getDelegateAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="method#getDelegateAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#getAdapter#1;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJsonTree#0;class#Gson#0" expanded="false" />
+            <element signature="method#toJsonTree#0;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJsonTree#1;class#Gson#0" expanded="false" />
+            <element signature="method#toJsonTree#1;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJson#0;class#Gson#0" expanded="false" />
+            <element signature="method#toJson#0;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJson#1;class#Gson#0" expanded="false" />
+            <element signature="method#toJson#1;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJson#2;class#Gson#0" expanded="false" />
+            <element signature="method#toJson#2;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJson#3;class#Gson#0" expanded="false" />
+            <element signature="method#toJson#3;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJson#4;class#Gson#0" expanded="false" />
+            <element signature="method#toJson#4;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJson#5;class#Gson#0" expanded="false" />
+            <element signature="method#toJson#5;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJson#6;class#Gson#0" expanded="false" />
+            <element signature="method#toJson#6;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#newJsonWriter#0;class#Gson#0" expanded="false" />
+            <element signature="method#newJsonWriter#0;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#toJson#7;class#Gson#0" expanded="false" />
+            <element signature="method#toJson#7;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#fromJson#2;class#Gson#0" expanded="false" />
+            <element signature="method#fromJson#2;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#fromJson#3;class#Gson#0" expanded="false" />
+            <element signature="method#assertFullConsumption#0;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#fromJson#4;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#fromJson#5;class#Gson#0" expanded="false" />
+            <element signature="method#fromJson#5;class#Gson#0" expanded="false" />
+            <element signature="docComment;method#fromJson#6;class#Gson#0" expanded="false" />
+            <element signature="method#fromJson#6;class#Gson#0" expanded="false" />
+            <element signature="class#FutureTypeAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="method#setDelegate#0;class#FutureTypeAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="method#read#0;class#FutureTypeAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="method#write#0;class#FutureTypeAdapter#0;class#Gson#0" expanded="false" />
+            <element signature="method#toString#0;class#Gson#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-study/src/main/java/com/yao/utils/custom/GSonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1900">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/utils/ParseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1216">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/internal/LinkedTreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="631" max-vertical-offset="10754">
+          <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+          <folding>
+            <element signature="e#1855#1861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/src/main/java/com/duobeiyun/utils/GenericsParseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42600897" vertical-offset="0" max-vertical-offset="988">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="class#889:937" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1504,7 +2417,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1540,7 +2453,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>duobeiyun</last-edited>
+          <last-edited>live</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1553,7 +2466,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <last-edited>Maven: com.google.code.gson:gson:2.2.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

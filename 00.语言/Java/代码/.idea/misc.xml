@@ -4,6 +4,7 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../../../crowdfunding/code/admin" />
     <file type="web" url="file://$PROJECT_DIR$/../../../../web_news_fzsfxd/core" />
     <file type="web" url="file://$PROJECT_DIR$/../../../../web_news_fzsfxd/web_news_fzsfxd" />
   </component>
@@ -14,10 +15,19 @@
         <option value="$PROJECT_DIR$/java-study/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../web_news_fzsfxd/core/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../duobeiyun/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../duobeiyun-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../spring-boot-ueditor-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../crowdfunding/code/admin/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
   </component>
 </project>

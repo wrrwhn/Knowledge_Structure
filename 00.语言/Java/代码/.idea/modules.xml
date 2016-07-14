@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/Utils.for.work.iml" filepath="$PROJECT_DIR$/../../../../../work4IDEA/Utils.for.work/Utils.for.work.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../../duobeiyun/duobeiyun.iml" filepath="$PROJECT_DIR$/../../../../duobeiyun/duobeiyun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../crowdfunding/code/admin/adminsite.iml" filepath="$PROJECT_DIR$/../../../../crowdfunding/code/admin/adminsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../spring-security/demo.security.iml" filepath="$PROJECT_DIR$/../../../../spring-security/demo.security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../duobeiyun-maven/duobeiyun.iml" filepath="$PROJECT_DIR$/../../../../duobeiyun-maven/duobeiyun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../duobeiyun-sdk/duobeiyun-sdk.iml" filepath="$PROJECT_DIR$/../../../../duobeiyun-sdk/duobeiyun-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/live.iml" filepath="$PROJECT_DIR$/../../../../../work4ND_DBY/Java/lib/live/live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../spring-boot-ueditor-master/spring-boot-ueditor.iml" filepath="$PROJECT_DIR$/../../../../spring-boot-ueditor-master/spring-boot-ueditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-study/study.iml" filepath="$PROJECT_DIR$/java-study/study.iml" />
     </modules>
   </component>

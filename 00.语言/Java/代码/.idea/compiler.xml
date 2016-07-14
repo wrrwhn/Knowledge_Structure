@@ -22,15 +22,26 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="adminsite" />
+        <module name="demo.security" />
         <module name="duobeiyun" />
+        <module name="duobeiyun-sdk" />
+        <module name="live" />
+        <module name="msgpush" />
         <module name="spark" />
+        <module name="spring-boot-ueditor" />
         <module name="Utils.for.work" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="adminsite" target="1.8" />
       <module name="BlogService" target="1.8" />
+      <module name="demo.security" target="1.8" />
       <module name="duobeiyun" target="1.8" />
+      <module name="live" target="1.7" />
+      <module name="msgpush" target="1.7" />
       <module name="spark" target="1.8" />
+      <module name="spring-boot-ueditor" target="1.7" />
       <module name="study" target="1.8" />
       <module name="Utils.for.work" target="1.8" />
       <module name="web_news_fzsfxd" target="1.6" />
