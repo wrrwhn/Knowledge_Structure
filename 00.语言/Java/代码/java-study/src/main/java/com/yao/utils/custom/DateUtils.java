@@ -19,7 +19,7 @@ public class DateUtils {
 
     public static void main(String[] args) {
 
-        compareDate();
+        dateMove();
     }
 
     /**
@@ -128,5 +128,78 @@ public class DateUtils {
         System.out.println(format.format(startDate.getTime()));
         System.out.println(format.format(endDate.getTime()));
         System.out.println(endDate.compareTo(startDate));
+    }
+
+    private static long countDateInterval(Date originDate, Date offsetDate) {
+
+        long offset = 0;
+
+        if (null != originDate && null != offsetDate)
+            offset = (offsetDate.getTime() - originDate.getTime()) / (1000 * 60 * 60 * 24);
+
+        return offset;
+    }
+
+    private static Date intervalMove(Date intervalStart, Date intervalEnd, Calendar origin) {
+
+        long interval = countDateInterval(
+                getOneDayStartTime(intervalStart),
+                getOneDayStartTime(intervalEnd)
+        );
+
+        Calendar dest = Calendar.getInstance();
+        dest.setTime(origin.getTime());
+        dest.add(Calendar.DAY_OF_YEAR, (int) interval);
+
+        return dest.getTime();
+    }
+
+    private static Date intervalMove(Date intervalStart, Date intervalEnd, Date origin) {
+
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(origin);
+        return intervalMove(intervalStart, intervalEnd, calendar);
+    }
+
+    public static Date getOneDayStartTime(Date date) {
+        Calendar cal = Calendar.getInstance();
+        cal.setTime(date);
+        cal.set(Calendar.HOUR_OF_DAY, 0);
+        cal.set(Calendar.MINUTE, 0);
+        cal.set(Calendar.SECOND, 0);
+        cal.set(Calendar.MILLISECOND, 0);
+        return cal.getTime();
+    }
+
+    public static void dateMove() {
+
+        Calendar calHis = Calendar.getInstance();
+        calHis.set(2016, 6, 21, 0, 0, 0);
+        Calendar calNow = Calendar.getInstance();
+        calNow.set(2016, 7, 18, 0, 0, 0);
+        Calendar calFut = Calendar.getInstance();
+        calFut.set(2016, 7, 21, 0, 0, 0);
+
+        System.out.println(countDateInterval(calHis.getTime(), calHis.getTime()));
+        System.out.println(countDateInterval(calNow.getTime(), calNow.getTime()));
+        System.out.println(countDateInterval(calFut.getTime(), calFut.getTime()));
+
+        System.out.println(countDateInterval(calHis.getTime(), calNow.getTime()));
+        System.out.println(countDateInterval(calNow.getTime(), calNow.getTime()));
+        System.out.println(countDateInterval(calFut.getTime(), calNow.getTime()));
+
+
+        Calendar calHis2 = Calendar.getInstance();
+        calHis2.set(2016, 6, 22, 0, 0, 0);
+        System.out.println(intervalMove(calHis.getTime(), calNow.getTime(), calHis.getTime()));
+        System.out.println(intervalMove(calNow.getTime(), calNow.getTime(), calNow.getTime()));
+        System.out.println(intervalMove(calFut.getTime(), calNow.getTime(), calHis2.getTime()));
+
+        calHis.add(Calendar.DAY_OF_YEAR, (int) countDateInterval(calHis.getTime(), calNow.getTime()));
+        System.out.println(calHis.getTime());
+        calNow.add(Calendar.DAY_OF_YEAR, (int) countDateInterval(calNow.getTime(), calNow.getTime()));
+        System.out.println(calNow.getTime());
+        calHis2.add(Calendar.DAY_OF_YEAR, (int) countDateInterval(calFut.getTime(), calNow.getTime()));
+        System.out.println(calHis2.getTime());
     }
 }
