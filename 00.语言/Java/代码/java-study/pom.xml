@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-    <groupId>com.com.yao</groupId>
+    <groupId>com.yao</groupId>
     <artifactId>study</artifactId>
     <modules>
         <module>../../../../../../work4IDEA/Utils.for.work</module>
@@ -12,7 +12,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>study</name>
-    <url>http://www.com.yao.com</url>
+    <url>http://www.yao.com</url>
 
     <properties>
         <java.version>1.8</java.version>
