@@ -27,6 +27,7 @@
         <module name="duobeiyun" />
         <module name="duobeiyun-sdk" />
         <module name="live" />
+        <module name="live-client" />
         <module name="msgpush" />
         <module name="spark" />
         <module name="spring-boot-ueditor" />
@@ -39,6 +40,7 @@
       <module name="demo.security" target="1.8" />
       <module name="duobeiyun" target="1.8" />
       <module name="live" target="1.7" />
+      <module name="live-client" target="1.7" />
       <module name="msgpush" target="1.7" />
       <module name="spark" target="1.8" />
       <module name="spring-boot-ueditor" target="1.7" />
