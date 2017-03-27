@@ -13,11 +13,70 @@ public class ByteUtils {
 
     public static void main(String[] args) {
 
-        byte[] bytes= ByteUtils.int2Bytes(5);
-        System.out.println(bytes);
+        System.out.println(bytes2Hex());
     }
 
-    private static void prod(){
+    public static String bytes2Hex() {
+
+        String output = "";
+        String input = "7E01183B04201612120201201612220001271000448B9B8054A37B000000000000000000000000201612220001278000000000280103010190020302189C01030302580203041E7801030529CC02030626AC01030727740203081770897E";
+        char[] DIGITS_UPPER = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'};
+        char[] DIGITS_LOWER = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'};
+
+        byte[] bytes = new byte[input.length()];
+        for (int i = 0; i < input.length(); i++) {
+            bytes[i] = (byte) input.charAt(i);
+        }
+
+        return bytesToHexString(bytes);
+    }
+
+    protected static char[] encodeHex(byte[] data, char[] toDigits) {
+        int l = data.length;
+        char[] out = new char[l << 1];
+        // two characters form the hex value.
+        for (int i = 0, j = 0; i < l; i++) {
+            out[j++] = toDigits[(0xF0 & data[i]) >>> 4];
+            out[j++] = toDigits[0x0F & data[i]];
+        }
+        return out;
+    }
+    public static String bytesToHexString(byte[] src){
+        StringBuilder stringBuilder = new StringBuilder("");
+        if (src == null || src.length <= 0) {
+            return null;
+        }
+        for (int i = 0; i < src.length; i++) {
+            int v = src[i] & 0xFF;
+            String hv = Integer.toHexString(v);
+            if (hv.length() < 2) {
+                stringBuilder.append(0);
+            }
+            stringBuilder.append(hv);
+        }
+        return stringBuilder.toString();
+    }
+
+    public static byte[] hexStringToBytes(String hexString) {
+        if (hexString == null || hexString.equals("")) {
+            return null;
+        }
+        hexString = hexString.toUpperCase();
+        int length = hexString.length() / 2;
+        char[] hexChars = hexString.toCharArray();
+        byte[] d = new byte[length];
+        for (int i = 0; i < length; i++) {
+            int pos = i * 2;
+            d[i] = (byte) (charToByte(hexChars[pos]) << 4 | charToByte(hexChars[pos + 1]));
+        }
+        return d;
+    }
+
+    private static byte charToByte(char c) {
+        return (byte) "0123456789ABCDEF".indexOf(c);
+    }
+
+    private static void prod() {
 
         //进行数据格式转换
         System.out.println("{data=data, proc=controller.method}: " + decodeBytes(encodeBytes("controller.method", "data")));
