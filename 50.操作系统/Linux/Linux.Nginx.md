@@ -420,3 +420,8 @@ server {
     }
 }
 ```
+
+### 停止后重启，找不到nginx.pid
+```
+/usr/local/nginx/sbin/nginx -c  /usr/local/nginx/conf/nginx.conf
+```
