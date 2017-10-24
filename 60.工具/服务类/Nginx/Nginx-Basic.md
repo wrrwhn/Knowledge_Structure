@@ -420,3 +420,22 @@ server {
     }
 }
 ```
+
+### 停止后重启，找不到nginx.pid
+```
+/usr/local/nginx/sbin/nginx -c  /usr/local/nginx/conf/nginx.conf
+```
+
+
+### 资源转跳
+```
+location ~ ^/upload/(.*)\.(jpg|jpeg|png|gif)$ {
+        root         /data/service/tomcat/webapps;
+        access_log   off;
+        expires      7d;
+}
+
+location ~ ^/wechat-forum-dev/upload/(.*)\.(jpg|jpeg|png|gif)$ {
+        rewrite /wechat-forum-dev/(.*) /$1 last;
+}
+```
