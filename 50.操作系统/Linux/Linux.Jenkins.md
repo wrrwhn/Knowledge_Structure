@@ -75,6 +75,17 @@
 	Goals&Options
 	```
 
+### user
+- JENKINS_USER
+	```
+	vim /etc/sysconfig/jenkins
+		 JENKINS_USER="jenkins"	-> JENKINS_USER="appuser"
+
+	chown -R appuser:appuser /var/lib/jenkins /var/log/jenkins
+	```
+- ReStart
+	- `service jenkins restart`
+
 ## 异常
 ### Could not read from remote repository.
 - 尝试 SSH 方式无果
