@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/../../../../../Book_Design_Pattern/src/main/java/strategy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -658,12 +658,12 @@
       <updated>1513563491578</updated>
       <workItem from="1513563493479" duration="6385000" />
       <workItem from="1513848060976" duration="4161000" />
-      <workItem from="1513915630882" duration="773000" />
+      <workItem from="1513915630882" duration="1343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11319000" />
+    <option name="totallyTimeSpent" value="11889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
@@ -781,7 +781,7 @@
     <entry file="file://$PROJECT_DIR$/../../../../../Book_Design_Pattern/src/main/java/strategy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
