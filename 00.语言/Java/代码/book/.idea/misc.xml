@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../../Book_Design_Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../Hello_Java_Commons/pom.xml" />
       </list>
     </option>
   </component>

@@ -17,6 +17,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="design-patterns" />
+        <module name="Hello_Java_Commons" />
         <module name="java-effective" />
         <module name="thinking-in-java" />
       </profile>
@@ -24,6 +25,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="book" target="1.8" />
       <module name="design-patterns" target="1.8" />
+      <module name="Hello_Java_Commons" target="1.8" />
       <module name="java-effective" target="1.8" />
       <module name="thinking-in-java" target="1.8" />
     </bytecodeTargetLevel>
