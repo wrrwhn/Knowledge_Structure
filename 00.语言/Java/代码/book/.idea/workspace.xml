@@ -26,823 +26,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayUtils.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/ArrayUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="5858" column="0" lean-forward="false" selection-start-line="5858" selection-start-column="0" selection-end-line="5858" selection-end-column="0" />
-              <folding>
-                <element signature="docComment;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_CLASS_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_STRING_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_LONG_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_LONG_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_INT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_INTEGER_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_SHORT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_SHORT_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_BYTE_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_BYTE_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_DOUBLE_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_DOUBLE_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_FLOAT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_FLOAT_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_BOOLEAN_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_BOOLEAN_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_CHAR_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#EMPTY_CHARACTER_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;field#INDEX_NOT_FOUND#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#ArrayUtils#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#5017#5103#0" expanded="false" />
-                <element signature="docComment;method#toString#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toString#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toString#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#hashCode#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEquals#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isEquals#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#7755#7764#0" expanded="false" />
-                <element signature="e#10119#10135#0" expanded="false" />
-                <element signature="docComment;method#toArray#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#11854#11862#0" expanded="false" />
-                <element signature="docComment;method#clone#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#clone#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#clone#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#clone#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#clone#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#clone#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#clone#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#clone#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#clone#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#clone#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#16434#16448#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#18;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#18;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#nullToEmpty#19;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#nullToEmpty#19;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#31179#31191#0" expanded="false" />
-                <element signature="docComment;method#subarray#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#subarray#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#subarray#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#subarray#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#subarray#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#subarray#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#subarray#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#subarray#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#subarray#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#subarray#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#45661#45678#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameLength#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameLength#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#getLength#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#getLength#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSameType#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSameType#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#52127#52137#0" expanded="false" />
-                <element signature="docComment;method#reverse#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#reverse#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#reverse#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#66184#66191#0" expanded="false" />
-                <element signature="docComment;method#swap#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#swap#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#swap#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#93012#93020#0" expanded="false" />
-                <element signature="docComment;method#shift#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shift#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#101251#101340#0" expanded="false" />
-                <element signature="docComment;method#shift#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#103746#103835#0" expanded="false" />
-                <element signature="docComment;method#shift#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#106241#106330#0" expanded="false" />
-                <element signature="docComment;method#shift#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#108740#108829#0" expanded="false" />
-                <element signature="docComment;method#shift#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#111237#111326#0" expanded="false" />
-                <element signature="docComment;method#shift#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#113730#113819#0" expanded="false" />
-                <element signature="docComment;method#shift#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#116225#116314#0" expanded="false" />
-                <element signature="docComment;method#shift#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#118717#118806#0" expanded="false" />
-                <element signature="docComment;method#shift#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shift#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#121214#121303#0" expanded="false" />
-                <element signature="e#122056#122073#0" expanded="false" />
-                <element signature="docComment;method#indexOf#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#127080#127095#0" expanded="false" />
-                <element signature="docComment;method#indexOf#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#131287#131301#0" expanded="false" />
-                <element signature="docComment;method#indexOf#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#135483#135499#0" expanded="false" />
-                <element signature="docComment;method#indexOf#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#139701#139716#0" expanded="false" />
-                <element signature="docComment;method#indexOf#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#143998#144013#0" expanded="false" />
-                <element signature="docComment;method#indexOf#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#148205#148222#0" expanded="false" />
-                <element signature="docComment;method#indexOf#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#158123#158139#0" expanded="false" />
-                <element signature="docComment;method#indexOf#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#162365#162383#0" expanded="false" />
-                <element signature="docComment;method#indexOf#18;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#18;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#indexOf#19;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#indexOf#19;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#18;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#18;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#lastIndexOf#19;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#lastIndexOf#19;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#contains#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#contains#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#166641#166677#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toObject#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toObject#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#169225#169249#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toObject#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toObject#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#171619#171642#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toObject#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toObject#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#174039#174064#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toObject#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toObject#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#176461#176485#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toObject#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toObject#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#178856#178882#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toObject#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toObject#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#181311#181338#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toObject#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toObject#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#184827#184854#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toPrimitive#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toPrimitive#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toObject#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toObject#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isNotEmpty#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#addAll#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#addAll#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#copyArrayGrow1#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#copyArrayGrow1#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#add#18;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#add#18;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#remove#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#remove#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#remove#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#remove#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElement#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElement#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#remove#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#remove#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeElements#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeElements#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAll#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAll#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#300523#300616#0" expanded="false" />
-                <element signature="docComment;method#isSorted#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="e#302210#302211#0" expanded="false" />
-                <element signature="e#302265#302266#0" expanded="false" />
-                <element signature="docComment;method#isSorted#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSorted#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSorted#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSorted#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSorted#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSorted#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSorted#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSorted#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#isSorted#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#isSorted#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#removeAllOccurences#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#removeAllOccurences#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toStringArray#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toStringArray#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#toStringArray#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#toStringArray#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#0;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#insert#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#insert#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#1;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#2;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#3;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#4;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#5;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#6;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#7;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#8;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#9;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#10;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#11;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#12;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#13;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#14;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#15;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#16;class#ArrayUtils#0" expanded="false" />
-                <element signature="docComment;method#shuffle#17;class#ArrayUtils#0" expanded="false" />
-                <element signature="method#shuffle#17;class#ArrayUtils#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BitField.java" pinned="false" current-in-tab="true">
-        <entry file="jar://$USER_HOME$/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/BitField.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
-              <folding>
-                <element signature="docComment;method#getValue#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#getShortValue#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#getRawValue#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#getShortRawValue#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#isSet#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#isAllSet#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#setValue#0;class#BitField#0" expanded="false" />
-                <element signature="method#setValue#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#setShortValue#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#clear#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#clearShort#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#clearByte#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#set#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#setShort#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#setByte#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#setBoolean#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#setShortBoolean#0;class#BitField#0" expanded="false" />
-                <element signature="method#setShortBoolean#0;class#BitField#0" expanded="false" />
-                <element signature="docComment;method#setByteBoolean#0;class#BitField#0" expanded="false" />
-                <element signature="method#setByteBoolean#0;class#BitField#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/server/java/jdk1.8.0_65/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25802">
-              <caret line="1421" column="22" lean-forward="false" selection-start-line="1421" selection-start-column="22" selection-end-line="1421" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#60784#0" expanded="false" />
-                <element signature="e#6101#6102#0" expanded="false" />
-                <element signature="e#6171#6172#0" expanded="false" />
-                <element signature="e#7967#7968#0" expanded="false" />
-                <element signature="e#8013#8014#0" expanded="false" />
-                <element signature="e#9482#9483#0" expanded="false" />
-                <element signature="e#9528#9529#0" expanded="false" />
-                <element signature="e#10902#10903#0" expanded="false" />
-                <element signature="e#10948#10949#0" expanded="false" />
-                <element signature="e#15724#15725#0" expanded="false" />
-                <element signature="e#15779#15780#0" expanded="false" />
-                <element signature="e#32532#32533#0" expanded="false" />
-                <element signature="e#32566#32567#0" expanded="false" />
-                <element signature="e#33488#33489#0" expanded="false" />
-                <element signature="e#33522#33523#0" expanded="false" />
-                <element signature="e#33736#33737#0" expanded="false" />
-                <element signature="e#33771#33772#0" expanded="false" />
-                <element signature="e#33891#33892#0" expanded="false" />
-                <element signature="e#33919#33920#0" expanded="false" />
-                <element signature="e#34168#34169#0" expanded="false" />
-                <element signature="e#34202#34203#0" expanded="false" />
-                <element signature="e#34414#34415#0" expanded="false" />
-                <element signature="e#34449#34450#0" expanded="false" />
-                <element signature="e#34664#34665#0" expanded="false" />
-                <element signature="e#34700#34701#0" expanded="false" />
-                <element signature="e#35161#35162#0" expanded="false" />
-                <element signature="e#35199#35200#0" expanded="false" />
-                <element signature="e#35486#35487#0" expanded="false" />
-                <element signature="e#35532#35533#0" expanded="false" />
-                <element signature="e#35824#35825#0" expanded="false" />
-                <element signature="e#35852#35853#0" expanded="false" />
-                <element signature="e#37816#37817#0" expanded="false" />
-                <element signature="e#37859#37860#0" expanded="false" />
-                <element signature="e#46394#46395#0" expanded="false" />
-                <element signature="e#46458#46459#0" expanded="false" />
-                <element signature="e#47036#47037#0" expanded="false" />
-                <element signature="e#47092#47093#0" expanded="false" />
-                <element signature="e#47615#47616#0" expanded="false" />
-                <element signature="e#47675#47676#0" expanded="false" />
-                <element signature="e#48444#48445#0" expanded="false" />
-                <element signature="e#48491#48492#0" expanded="false" />
-                <element signature="e#56465#56466#0" expanded="false" />
-                <element signature="e#56523#56524#0" expanded="false" />
-                <element signature="e#57650#57651#0" expanded="false" />
-                <element signature="e#57708#57709#0" expanded="false" />
-                <element signature="e#59796#59797#0" expanded="false" />
-                <element signature="e#59824#59825#0" expanded="false" />
-                <element signature="e#60191#60192#0" expanded="false" />
-                <element signature="e#60228#60229#0" expanded="false" />
-                <element signature="e#60595#60596#0" expanded="false" />
-                <element signature="e#60632#60633#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayUtilsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../../../Hello_Java_Commons/src/main/java/apache/commons/arch/ArrayUtilsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="docComment;class#ArrayUtilsTest#0" expanded="false" />
-                <element signature="method#toConvert#0;class#ArrayUtilsTest#0" expanded="false" />
-                <element signature="method#print#0;class#ArrayUtilsTest#0" expanded="false" />
-                <element signature="method#print#1;class#ArrayUtilsTest#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/server/java/jdk1.8.0_65/src.zip!/java/util/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6384">
-              <caret line="362" column="76" lean-forward="false" selection-start-line="362" selection-start-column="76" selection-end-line="362" selection-end-column="76" />
-              <folding>
-                <element signature="e#0#53227#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Set.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/server/java/jdk1.8.0_65/src.zip!/java/util/Set.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="145" column="13" lean-forward="false" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#17839#0" expanded="false" />
-                <element signature="docComment;class#Set#0" expanded="false" />
-                <element signature="docComment;method#size#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#contains#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#iterator#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#toArray#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#toArray#1;class#Set#0" expanded="false" />
-                <element signature="docComment;method#add#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#remove#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#containsAll#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#addAll#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#retainAll#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#removeAll#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#clear#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#equals#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#hashCode#0;class#Set#0" expanded="false" />
-                <element signature="docComment;method#spliterator#0;class#Set#0" expanded="false" />
-                <element signature="e#17760#17761#0" expanded="false" />
-                <element signature="e#17835#17836#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -957,8 +141,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-266" />
+    <option name="y" value="165" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -1546,11 +730,12 @@
       <workItem from="1519613667823" duration="1804000" />
       <workItem from="1519697499342" duration="6499000" />
       <workItem from="1520087067124" duration="9882000" />
+      <workItem from="1521172102908" duration="685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207115000" />
+    <option name="totallyTimeSpent" value="207800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1562,7 +747,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-266" y="165" width="1936" height="1066" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1570,7 +755,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44635195" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2070,9 +1255,11 @@
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/ArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="15770">
           <caret line="5858" column="0" lean-forward="false" selection-start-line="5858" selection-start-column="0" selection-end-line="5858" selection-end-column="0" />
           <folding>
+            <element signature="e#0#345412#0" expanded="false" />
+            <element signature="imports" expanded="false" />
             <element signature="docComment;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;field#EMPTY_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;field#EMPTY_CLASS_ARRAY#0;class#ArrayUtils#0" expanded="false" />
@@ -2095,16 +1282,24 @@
             <element signature="docComment;field#EMPTY_CHARACTER_OBJECT_ARRAY#0;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;field#INDEX_NOT_FOUND#0;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#ArrayUtils#0;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#4988#4989#0" expanded="false" />
+            <element signature="e#5009#5010#0" expanded="false" />
             <element signature="e#5017#5103#0" expanded="false" />
             <element signature="docComment;method#toString#0;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#5756#5757#0" expanded="false" />
+            <element signature="e#5800#5801#0" expanded="false" />
             <element signature="docComment;method#toString#1;class#ArrayUtils#0" expanded="false" />
             <element signature="method#toString#1;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#hashCode#0;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#6933#6934#0" expanded="false" />
+            <element signature="e#7004#7005#0" expanded="false" />
             <element signature="docComment;method#isEquals#0;class#ArrayUtils#0" expanded="false" />
             <element signature="method#isEquals#0;class#ArrayUtils#0" expanded="false" />
             <element signature="e#7755#7764#0" expanded="false" />
             <element signature="e#10119#10135#0" expanded="false" />
             <element signature="docComment;method#toArray#0;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#11819#11820#0" expanded="false" />
+            <element signature="e#11847#11848#0" expanded="false" />
             <element signature="e#11854#11862#0" expanded="false" />
             <element signature="docComment;method#clone#0;class#ArrayUtils#0" expanded="false" />
             <element signature="method#clone#0;class#ArrayUtils#0" expanded="false" />
@@ -2339,6 +1534,8 @@
             <element signature="method#contains#0;class#ArrayUtils#0" expanded="false" />
             <element signature="e#127080#127095#0" expanded="false" />
             <element signature="docComment;method#indexOf#2;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#127710#127711#0" expanded="false" />
+            <element signature="e#127763#127764#0" expanded="false" />
             <element signature="docComment;method#indexOf#3;class#ArrayUtils#0" expanded="false" />
             <element signature="method#indexOf#3;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#lastIndexOf#2;class#ArrayUtils#0" expanded="false" />
@@ -2349,6 +1546,8 @@
             <element signature="method#contains#1;class#ArrayUtils#0" expanded="false" />
             <element signature="e#131287#131301#0" expanded="false" />
             <element signature="docComment;method#indexOf#4;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#131914#131915#0" expanded="false" />
+            <element signature="e#131967#131968#0" expanded="false" />
             <element signature="docComment;method#indexOf#5;class#ArrayUtils#0" expanded="false" />
             <element signature="method#indexOf#5;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#lastIndexOf#4;class#ArrayUtils#0" expanded="false" />
@@ -2359,6 +1558,8 @@
             <element signature="method#contains#2;class#ArrayUtils#0" expanded="false" />
             <element signature="e#135483#135499#0" expanded="false" />
             <element signature="docComment;method#indexOf#6;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#136116#136117#0" expanded="false" />
+            <element signature="e#136169#136170#0" expanded="false" />
             <element signature="docComment;method#indexOf#7;class#ArrayUtils#0" expanded="false" />
             <element signature="method#indexOf#7;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#lastIndexOf#6;class#ArrayUtils#0" expanded="false" />
@@ -2369,6 +1570,8 @@
             <element signature="method#contains#3;class#ArrayUtils#0" expanded="false" />
             <element signature="e#139701#139716#0" expanded="false" />
             <element signature="docComment;method#indexOf#8;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#140349#140350#0" expanded="false" />
+            <element signature="e#140402#140403#0" expanded="false" />
             <element signature="docComment;method#indexOf#9;class#ArrayUtils#0" expanded="false" />
             <element signature="method#indexOf#9;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#lastIndexOf#8;class#ArrayUtils#0" expanded="false" />
@@ -2379,6 +1582,8 @@
             <element signature="method#contains#4;class#ArrayUtils#0" expanded="false" />
             <element signature="e#143998#144013#0" expanded="false" />
             <element signature="docComment;method#indexOf#10;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#144628#144629#0" expanded="false" />
+            <element signature="e#144681#144682#0" expanded="false" />
             <element signature="docComment;method#indexOf#11;class#ArrayUtils#0" expanded="false" />
             <element signature="method#indexOf#11;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#lastIndexOf#10;class#ArrayUtils#0" expanded="false" />
@@ -2389,6 +1594,8 @@
             <element signature="method#contains#5;class#ArrayUtils#0" expanded="false" />
             <element signature="e#148205#148222#0" expanded="false" />
             <element signature="docComment;method#indexOf#12;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#148841#148842#0" expanded="false" />
+            <element signature="e#148894#148895#0" expanded="false" />
             <element signature="docComment;method#indexOf#13;class#ArrayUtils#0" expanded="false" />
             <element signature="method#indexOf#13;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#indexOf#14;class#ArrayUtils#0" expanded="false" />
@@ -2409,6 +1616,8 @@
             <element signature="method#contains#7;class#ArrayUtils#0" expanded="false" />
             <element signature="e#158123#158139#0" expanded="false" />
             <element signature="docComment;method#indexOf#16;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#158756#158757#0" expanded="false" />
+            <element signature="e#158809#158810#0" expanded="false" />
             <element signature="docComment;method#indexOf#17;class#ArrayUtils#0" expanded="false" />
             <element signature="method#indexOf#17;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#lastIndexOf#16;class#ArrayUtils#0" expanded="false" />
@@ -2487,23 +1696,59 @@
             <element signature="docComment;method#toObject#7;class#ArrayUtils#0" expanded="false" />
             <element signature="method#toObject#7;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#isEmpty#0;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#187670#187671#0" expanded="false" />
+            <element signature="e#187714#187715#0" expanded="false" />
             <element signature="docComment;method#isEmpty#1;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#187991#187992#0" expanded="false" />
+            <element signature="e#188035#188036#0" expanded="false" />
             <element signature="docComment;method#isEmpty#2;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#188310#188311#0" expanded="false" />
+            <element signature="e#188354#188355#0" expanded="false" />
             <element signature="docComment;method#isEmpty#3;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#188633#188634#0" expanded="false" />
+            <element signature="e#188677#188678#0" expanded="false" />
             <element signature="docComment;method#isEmpty#4;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#188954#188955#0" expanded="false" />
+            <element signature="e#188998#188999#0" expanded="false" />
             <element signature="docComment;method#isEmpty#5;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#189275#189276#0" expanded="false" />
+            <element signature="e#189319#189320#0" expanded="false" />
             <element signature="docComment;method#isEmpty#6;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#189600#189601#0" expanded="false" />
+            <element signature="e#189644#189645#0" expanded="false" />
             <element signature="docComment;method#isEmpty#7;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#189923#189924#0" expanded="false" />
+            <element signature="e#189967#189968#0" expanded="false" />
             <element signature="docComment;method#isEmpty#8;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#190250#190251#0" expanded="false" />
+            <element signature="e#190294#190295#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#0;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#190714#190715#0" expanded="false" />
+            <element signature="e#190754#190755#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#1;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#191052#191053#0" expanded="false" />
+            <element signature="e#191090#191091#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#2;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#191386#191387#0" expanded="false" />
+            <element signature="e#191424#191425#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#3;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#191724#191725#0" expanded="false" />
+            <element signature="e#191762#191763#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#4;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#192060#192061#0" expanded="false" />
+            <element signature="e#192098#192099#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#5;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#192396#192397#0" expanded="false" />
+            <element signature="e#192434#192435#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#6;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#192736#192737#0" expanded="false" />
+            <element signature="e#192774#192775#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#7;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#193074#193075#0" expanded="false" />
+            <element signature="e#193112#193113#0" expanded="false" />
             <element signature="docComment;method#isNotEmpty#8;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#193416#193417#0" expanded="false" />
+            <element signature="e#193454#193455#0" expanded="false" />
             <element signature="docComment;method#addAll#0;class#ArrayUtils#0" expanded="false" />
             <element signature="method#addAll#0;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#addAll#1;class#ArrayUtils#0" expanded="false" />
@@ -2563,6 +1808,8 @@
             <element signature="docComment;method#add#18;class#ArrayUtils#0" expanded="false" />
             <element signature="method#add#18;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#remove#0;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#237263#237264#0" expanded="false" />
+            <element signature="e#237321#237322#0" expanded="false" />
             <element signature="docComment;method#removeElement#0;class#ArrayUtils#0" expanded="false" />
             <element signature="method#removeElement#0;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#remove#1;class#ArrayUtils#0" expanded="false" />
@@ -2570,9 +1817,13 @@
             <element signature="docComment;method#removeElement#1;class#ArrayUtils#0" expanded="false" />
             <element signature="method#removeElement#1;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#remove#2;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#243092#243093#0" expanded="false" />
+            <element signature="e#243153#243154#0" expanded="false" />
             <element signature="docComment;method#removeElement#2;class#ArrayUtils#0" expanded="false" />
             <element signature="method#removeElement#2;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#remove#3;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#245920#245921#0" expanded="false" />
+            <element signature="e#245981#245982#0" expanded="false" />
             <element signature="docComment;method#removeElement#3;class#ArrayUtils#0" expanded="false" />
             <element signature="method#removeElement#3;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#remove#4;class#ArrayUtils#0" expanded="false" />
@@ -2584,9 +1835,13 @@
             <element signature="docComment;method#removeElement#5;class#ArrayUtils#0" expanded="false" />
             <element signature="method#removeElement#5;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#remove#6;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#254510#254511#0" expanded="false" />
+            <element signature="e#254570#254571#0" expanded="false" />
             <element signature="docComment;method#removeElement#6;class#ArrayUtils#0" expanded="false" />
             <element signature="method#removeElement#6;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#remove#7;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#257300#257301#0" expanded="false" />
+            <element signature="e#257361#257362#0" expanded="false" />
             <element signature="docComment;method#removeElement#7;class#ArrayUtils#0" expanded="false" />
             <element signature="method#removeElement#7;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#remove#8;class#ArrayUtils#0" expanded="false" />
@@ -2698,30 +1953,48 @@
             <element signature="method#insert#7;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#insert#8;class#ArrayUtils#0" expanded="false" />
             <element signature="method#insert#8;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#337121#337122#0" expanded="false" />
+            <element signature="e#337165#337166#0" expanded="false" />
             <element signature="docComment;method#shuffle#1;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#1;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#shuffle#2;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#338084#338085#0" expanded="false" />
+            <element signature="e#338128#338129#0" expanded="false" />
             <element signature="docComment;method#shuffle#3;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#3;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#shuffle#4;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#339045#339046#0" expanded="false" />
+            <element signature="e#339089#339090#0" expanded="false" />
             <element signature="docComment;method#shuffle#5;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#5;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#shuffle#6;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#340003#340004#0" expanded="false" />
+            <element signature="e#340047#340048#0" expanded="false" />
             <element signature="docComment;method#shuffle#7;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#7;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#shuffle#8;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#340962#340963#0" expanded="false" />
+            <element signature="e#341006#341007#0" expanded="false" />
             <element signature="docComment;method#shuffle#9;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#9;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#shuffle#10;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#341920#341921#0" expanded="false" />
+            <element signature="e#341964#341965#0" expanded="false" />
             <element signature="docComment;method#shuffle#11;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#11;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#shuffle#12;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#342877#342878#0" expanded="false" />
+            <element signature="e#342921#342922#0" expanded="false" />
             <element signature="docComment;method#shuffle#13;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#13;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#shuffle#14;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#343836#343837#0" expanded="false" />
+            <element signature="e#343880#343881#0" expanded="false" />
             <element signature="docComment;method#shuffle#15;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#15;class#ArrayUtils#0" expanded="false" />
             <element signature="docComment;method#shuffle#16;class#ArrayUtils#0" expanded="false" />
+            <element signature="e#344797#344798#0" expanded="false" />
+            <element signature="e#344841#344842#0" expanded="false" />
             <element signature="docComment;method#shuffle#17;class#ArrayUtils#0" expanded="false" />
             <element signature="method#shuffle#17;class#ArrayUtils#0" expanded="false" />
           </folding>
@@ -2730,8 +2003,8 @@
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/BitField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="193" column="0" lean-forward="true" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        <state relative-caret-position="535">
+          <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
           <folding>
             <element signature="docComment;method#getValue#0;class#BitField#0" expanded="false" />
             <element signature="docComment;method#getShortValue#0;class#BitField#0" expanded="false" />
